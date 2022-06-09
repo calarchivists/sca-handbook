@@ -9,7 +9,7 @@ title: 3-8 Ethics and Inclusion Committee
 
 This standing committee works to promote and develop a culture that values diversity, inclusion and ethical behavior within SCA.
 
-Composition of the committee and terms of office are defined in Handbook section 3-1 and governed by the Bylaws.
+Composition of the committee is as follows: Immediate Past President will serve as a member of the committee, co-chairs will have staggered terms, and junior co-chair must have already been serving on the committee before taking this role.  Terms of office are defined in Handbook section 3-1 and governed by the Bylaws.
 
 ## Responsibilities
 
