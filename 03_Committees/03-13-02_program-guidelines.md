@@ -25,6 +25,8 @@ Program Committee members should use the "Session Proposal Form" as a tool for i
  
 Each session should have a Program Committee liaison/facilitator in addition to the session chair/moderator/commentator to take care of logistical details and help the session run smoothly. If the chair wishes, the facilitator can also write an evaluation of the session and a summary of the session for the SCA _Newsletter_.
 
+Presenters must also fill out a Session Participant Agreement form if their session is being recorded by SCA for future distribution to members and/or registered AGM attendees for that given year.
+
 ***
 
 _Revision history: 5/93 jok, 6/93 bh, 7/94 ppa, 1/06 jlm, 3/2006 board, 1/10 lo, 10/2017 llc, 04/2019 llc, mh 12/20_
