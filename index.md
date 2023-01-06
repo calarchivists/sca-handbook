@@ -37,7 +37,7 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
   - 2-5-4     [Cost of Membership]({{ site.baseurl }}/02_Governing_Body/02-05-04_cost-of-membership.html)
   - 2-5-5     [Education Fund  Guidelines]({{ site.baseurl }}/02_Governing_Body/02-05-05_education-fund-guide.html)
   - 2-5-6     [Guidelines for Annual Expenditures from the SCA General Fund]({{ site.baseurl }}/02_Governing_Body/02-05-06_annual-expenditures-guide.html)
-  - 2-5-7     Reimbursement Form
+  - 2-5-7     [Reimbursement Form]({{ site.baseurl }}/02_Governing_Body/02-05-07_reimbursement-form.html)
   - 2-5-8     [Reimbursement Policy]({{ site.baseurl }}/02_Governing_Body/02-05-08_reimbursement-policy.html)
   - 2-5-9     [Honoraria Policy]({{ site.baseurl }}/02_Governing_Body/02-05-09_honoraria-policy.html)
   - 2-5-10   [Cancellation and Refund Policy]({{ site.baseurl }}/02_Governing_Body/02-05-10_cancellation-and-refund-policy.html)
