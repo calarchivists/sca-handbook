@@ -5,7 +5,7 @@ title: 3-6-3 Workshop Evaluation Form (Sample)
 
 # 3-6-3 Workshop Evaluation Form (Sample)
 
-[Workshop Evaluation Form](../docs/Evaluation_Form.pdf)
+[Workshop Evaluation Form (Sample)](../docs/evaluation-form=sample.pdf)
 
 ***
 
