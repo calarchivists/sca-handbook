@@ -5,7 +5,7 @@ title: 2-7-6 Membership Form (Sample)
 
 # Membership Form (Sample)
 
-[Membership Form](../docs/Membership_Form.pdf)
+[Membership Form (Sample)](../docs/membership-form-sample.pdf)
 
 ***
 
