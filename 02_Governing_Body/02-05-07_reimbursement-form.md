@@ -5,7 +5,7 @@ title: 2-5-7 Reimbursement Form
 
 # 2-5-7 Reimbursement Form (Sample)
 
-[Reimbursement Form (Sample)](../docs/reimbursement-form=sample.pdf)
+[Reimbursement Form (Sample)](../docs/reimbursement-form-sample.pdf)
 
 ***
 
