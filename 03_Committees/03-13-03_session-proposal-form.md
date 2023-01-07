@@ -1,11 +1,11 @@
 ---
-title: 3-13-3 [GM Session Proposal Form (Sample)
+title: 3-13-3 [AGM Session Proposal Form (Sample)
 
 ---
 
-# 3-13-3 [GM Session Proposal Form (Sample)
+# 3-13-3 [AGM Session Proposal Form (Sample)
 
-[AGM Session Proposal Form (Sample)](../docs/agm_session-proposal-form.pdf)
+[AGM Session Proposal Form (Sample)](../docs/agm-session-proposal-form.pdf)
 
 ***
 
