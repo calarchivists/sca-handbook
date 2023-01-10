@@ -22,7 +22,7 @@ title: 2-4-2 Handbook Review and Update Assignments
 | 1-9-3 SCA Identity Guidelines      | Secretary |
 | 1-9-4 Records Retention Schedule   | Archives |
 | 1-9-5 Records Destruction Calendar | Archives |
-| 1-9-6 SCA Archives: Finding Aid    | Archives |
+| 1-9-6 SCA Archives: Finding Aid    | Secretary |
 
 ## 2 Governing Body
 
@@ -56,7 +56,7 @@ title: 2-4-2 Handbook Review and Update Assignments
 | 2-7-4 Welcome Letter (sample)            | Membership Director |
 | 2-7-5 Membership List                    | Membership Director |
 | 2-7-6 Membership Form                    | Membership Director |
-| 2-8 Directors at Large                   | Directors at Large |
+| 2-8 Directors at Large                   | Members at Large |
 
 ## 3 Committees
 
@@ -90,13 +90,13 @@ title: 2-4-2 Handbook Review and Update Assignments
 | 3-7-2-1 Official Ballot Instructions (sample) | Election Ctte. |
 | 3-8 Ethics and Inclusion Committee        | E & I Ctte. |
 | 3-9 Finance and Investment Committee      | Treasurer |
-| 3-9-1 SCA Investment Policy Statement     | Finance & Investmt Ctte. |
+| 3-9-1 SCA Investment Policy Statement     | Treasurer |
 | 3-10 Local Arrangements Committee: Annual General Meeting (AGM) | Local Arrangements Ctte. |
 | 3-10-1 AGM Budget/Financial Report Format | Vice President |
 | 3-10-2 AGM Local Arrangements Checklist   | Local Arrangements Ctte. |
 | 3-10-3 Local Arrangements Calendar        | Local Arrangements Ctte. |
-| 3-10-4 Site Selection Checklist           | ? |
-| 3-10-5 Local Arrangements Compensation Guidelines | ? |
+| 3-10-4 Site Selection Checklist           | Local Arrangements Ctte. |
+| 3-10-5 Local Arrangements Compensation Guidelines | Local Arrangements Ctte. |
 | 3-11 Membership Committee                 | Membership Director |
 | 3-11-1 Vice Chair for Member Activities   | Membership Director |
 | 3-12 Nominating Committee                 | Past President |
@@ -147,4 +147,4 @@ title: 2-4-2 Handbook Review and Update Assignments
 ***
 
 _Revision history: 5/93 jab, 6/93 bh, 5/11 jmw, 06/2017 llc, 10/2017 llc, 01/2018 llc, 02/2018 llc, 06/2018 llc,
-04/2019 llc, 02/2020 mh, 10/2022 ck_
+04/2019 llc, 02/2020 mh, 01/2023 ck_
