@@ -3,50 +3,30 @@ title: 3-15-2 Western Archives Institute Assistant/Associate Administrator
 
 ---
 
-# 3-15-2 Western Archives Institute Assistant/Associate Administrator
+# 3-15-2 Management Committee Chair & Executive Secretary
 
 ## General Description
 
-The Assistant/Associate Administrator acts as the deputy chief administrative officer for the Western Archives Institute (WAI) Joint Management Committee (Management Committee). The Assistant/Associate Administrator Acts as a chief administrative officer in the absence of the Administrator.
+Provides leadership for WAI, and exercises supervision and oversight over the planning and execution of each Program. Appointed by the SCA President as all other SCA Committee chairs are.
 
 ## Responsibilities
 
-### General
-1. With the Management Committee, manages the operations of WAI.
-2. Participates in meetings and decisions of the Management Committee.
-3. With the Management Committee, selects the On-site and Local Arrangements Coordinator.
+1. Leads WAI Management Committee in discharging its duties.
+2. Manages operation of WAI with the Management Committee.
+3. Prepares agendas and presides at Management Committee meetings.
+4. Keeps minutes of Management Committee meetings.
+5. Selects Program Coordinator in consultation with Administrator.
+6. Selects three (3) members of WAI Program Subcommittee in consultation with Administrator and Program Coordinator.
+7. Conducts annual audit after the end of the fiscal year.
+8. Writes and submits quarterly reports to the SCA Board with input from the Management Committee.
+9. Leads review and revision of MOU between the Society of California Archivists (SCA) and the State Archives every five (5) years.
+10.	Maintains the WAI Handbook:
+    1. Maintains an up-to-date electronic file and backup of the Handbook. The version on SCA's WAI Google Drive workspace serves as the master copy of the Handbook. 
+    1. Provides drafts of changes for Management Committee review as appropriate. Generally these would include major revisions of existing sections.
+    1. Dates and initials additions and revisions at the bottom of the last page of each section at the time such revisions are made.
+    1. Notifies the SCA President and State Archivist when the WAI Handbook has been fully revised and updated following each program.
 
-### Financial
-4. Reviews WAI financial records.
-
-### Program
-5. With the Management Committee, reviews and selects facilities for WAI including site visits.
-6. With the Management Committee, selects the Principal Faculty Member and adjunct faculty to participate in WAI.
-7. With the Management Committee, selects publications for students.
-8. May participate in WAI opening and closing ceremonies, as necessary.
-
-### Publicity
-9. Prepared and sends out publicity for WAI including brochures, flyers, and press releases.
-
-### Participants
-10.	Prepares student application form and application package. Sends applications in response to requests.
-11.	With the Management Committee, reviews student applications and selects students to attend WAI.
-
-### Communication
-12.	May assist in preparation of mailings to students including sending local arrangements information, admission letters, and publications that are sent in advance of the program.
-13.	May assist in preparation of mailings to faculty.
-14.	Reproduces faculty handouts, as necessary.
-
-### Reporting and Evaluation
-15.	With the Management Committee, reviews student and faculty evaluations.
-16.	With Administrator, maintains WAI records. 
-
-## Benefits
-
-The Assistant/Associate Administrator will receive an honorarium, to be determined by the SCA Board, provided the Assistant/Associate Administrator does not receive financial support from their institution to participate in WAI.
-
-WAI will cover any reasonable expenses incurred by the Assistant/Associate Administrator in carrying out their responsibilities.
 
 ***
 
-_Revision history: 8/98 nz, 12/99 nz, 11/00 nz, 06/02 nz, 07/02 nz, 06/04 nz, 07/07 sb, 08/09 jbr, 10/2017 llc, 04/2019 llc_
+_Revision history: 8/98 nz, 12/99 nz, 11/00 nz, 06/02 nz, 07/02 nz, 06/04 nz, 07/07 sb, 08/09 jbr, 10/2017 llc, 04/2019 llc, 02/23 lm_
