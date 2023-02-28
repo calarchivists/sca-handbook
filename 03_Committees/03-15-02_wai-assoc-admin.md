@@ -1,5 +1,5 @@
 ---
-title: 3-15-2 Western Archives Institute Assistant/Associate Administrator
+title: 3-15-2 Management Committee Chair & Executive Secretary
 
 ---
 
