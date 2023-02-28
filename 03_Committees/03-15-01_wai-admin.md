@@ -1,5 +1,5 @@
 ---
-title: 3-15-1 Western Archives Institute Administrator
+title: 3-15-1 Western Archives Institute Management Committee
 
 ---
 
