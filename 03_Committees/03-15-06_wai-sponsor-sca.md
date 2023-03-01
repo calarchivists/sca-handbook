@@ -1,36 +1,26 @@
 ---
-title: 3-15-6 WAI Sponsor Responsibilities: Society of California Archivists
+title: 3-15-6 Program Subcommittee
 
 ---
 
-# 3-15-6 WAI Sponsor Responsibilities: Society of California Archivists
+# 3-15-6 Program Subcommittee
 
 ## General Description
 
-The Society of California Archivists, Inc. (SCA) is one of the sponsors of the Western Archives Institute (WAI).
+The Program Subcommittee plans and presents the Western Archives Institute each summer. The committee is chaired by the Administrator, and the Program Coordinator is a standing member. Three (3) additional subcommittee members are appointed by the Management Committee Chair in consultation with the Administrator and Program Coordinator. They serve staggered 3-year terms, with one new member joining the committee each year as another member rotates off. The Program Subcommittee works in close consultation with the WAI Management Committee to prepare and plan the program of each year's institute.
 
 ## Responsibilities
 
-### Governance
-1. Members of SCA serve on the WAI Joint Management Committee (Management Committee).
-2. Two members of SCA’s Board of Directors (SCA Board) serve on the Management Committee, one as Board Liaison and the other as Deputy Board Liaison.
-3. A majority of member of the Management Committee, with concurrence of a majority of the members of the SCA Board, can dismiss a participant for behavior that is not professional or violates the rules established by the host institution or conference site. The participant may appeal the dismissal directly to the SCA Board.
-4. The SCA President or their designee participates in the annual closing ceremonies for WAI.
-
-### Financial
-5. The SCA Board receives quarterly reports concerning the operation and financial condition of WAI.
-6. The Board reviews and approves the annual budget for WAI.
-7. For tax reporting purposes, WAI uses SCA’s Employer Identification number (EIN) and is considered a unit of SCA.
-8. SCA acts as fiscal agent for any grant awarded to WAI.
-9. SCA provides liability insurance coverage for WAI.
-10. SCA provides funding for one scholarship to attend WAI.  Any scholarship winners are required to write an article for the SCA newsletter regarding their WAI experience after attending the institute and submit to the WAI Administrator who will forward the article to SCA newsletter editor(s).
-
-### Site Selection
-11.	The SCA Board reviews and approves the Management Committee’s recommendations concerning the site for WAI.
-
-### Regional Institutes
-12.	The SCA Board reviews and approves any requests to hold other regional institutes that may be held outside of California.
+1. Manages the operation of WAI with the Management Committee.
+2. Makes recommendations to the Management Committee for online instructional tools for the program.
+3. Reviews contracts and licensing agreements with vendors for online instructional tools.
+4. Identifies and selects Principal Faculty Member (PFM) for each program, approved by the Management Committee.
+5. Works with PFM to determine which sessions the PFM will teach each year, and which will be taught by adjunct faculty.
+6. Identifies and selects adjunct faculty members from within the broader professional community.
+7. With PFM, prepares and presents a draft program schedule to the full Management Committee for discussion and approval.
+8. Reviews and updates publications list as needed in consultation with the Management Committee.
+9. Reviews and assesses WAI curriculum every 5 years.
 
 ***
 
-_Revision history: 11/98 nz, 03/01 nz, 06/02 nz, 10/02 kh, 10/04 nz, 07/09 jbr, 10/2017 llc, 04/2019 llc_
+_Revision history: 11/98 nz, 03/01 nz, 06/02 nz, 10/02 kh, 10/04 nz, 07/09 jbr, 10/2017 llc, 04/2019 llc, 02/23 lm_
