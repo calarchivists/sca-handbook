@@ -1,25 +1,34 @@
 ---
-title: 3-15-5 WAI Sponsor Responsibilities: California State Archives
+title: 3-15-5 Program Coordinator
 
 ---
 
-# 3-15-5 WAI Sponsor Responsibilities: California State Archives
+# 3-15-5 Program Coordinator
 
 ## General Description
 
-The California State Archives (State Archives), a division of the Office of the Secretary of State, is one of the sponsors of the Western Archives Institute (WAI).
+The Program Coordinator is the liaison between the students, faculty, and WAI Management Committee. The Program Coordinator is a standing member of the Program Subcommittee, and is responsible for the daily operations of WAI while the institute is in session.
 
 ## Responsibilities
 
-1. The State Archives serves as the administrative office for WAI and any regional institutes.
-2. The State Archivist appoints the Administrator of WAI from the staff of the State Archives. The appointment is made in consultation with the SCA Board of Directors (SCA Board). The WAI Administrator is an employee of the State of California and is under the supervision of the State Archivist.
-3. The State Archivist is consulted concerning decisions by the SCA Board and WAI Joint Management Committee (Management Committee) that affect WAI.
-4. The State Archivist is an _ex-officio_ member of the Management Committee and may join the Management Committee in the selection of students for WAI. The State Archivist or their designee and the Management Committee serve as the WAI Selection Committee for the purposes of selecting students to attend WAI.
-5. The State Archivist receives quarterly reports concerning the operation and financial condition of WAI.
-6. The State Archivist or their designee participates in the annual closing ceremonies for WAI held in California.
-7. With the SCA Board, the State Archivist reviews and approves any request to hold other region institutes that may be held outside of California.
-8. The State Archivist receives operating and financial reports concerning regional institutes.
+1. Manages the operation of WAI with the Management Committee.
+2. Serves as a standing member of the Program Subcommittee (see 3-6).
+3. Maintains contact with the Administrator and Program Subcommittee before and during the program.
+4. Begins and ends daily program sessions, confirms students’ attendance, supervises site visits, and disseminates and collects session evaluations.
+5. Is available to students at all times during the program. Facilitates camaraderie among participants, including faculty.
+6. During program:
+    1. Goes over Statement of Expectations and House Rules
+    2. Uploads course materials to the Learning Management System at least 48 hours in advance of sessions.
+    3. Makes announcements at beginning and end of sessions, and asks if there are any technical or other problems.
+    4. Serves as Zoom host for live meetings with control of the waiting room, passwords, private chatting, screen sharing, muting, etc.
+    5. Shares links to session evaluations with participants.
+    6. Reminds participants of submission deadlines for evaluations.
+    7. Liaises with support technicians as technical problems arise.
+
+## Benefits
+
+The Program Coordinator will receive an honorarium to be determined by the Board of the Society of California Archivists, provided the Program Coordinator does not receive financial support from his/her institution to participate in WAI.
 
 ***
 
-_Revision history: 11/98 nz, 03/01 nz, 06/02 nz, 06/04 nz, 07/09 jbr, 10/2017 llc, 04/2019 llc_
+_Revision history: 11/98 nz, 03/01 nz, 06/02 nz, 06/04 nz, 07/09 jbr, 10/2017 llc, 04/2019 llc, 02/23 lm_
