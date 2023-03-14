@@ -43,11 +43,11 @@ title: 5-3 Annual General Meeting (AGM) History
 | 2007 | May 17-19   | Long Beach, Renaissance Long Beach Hotel |
 | 2008 | May 1-3     | Monterey, Beach Resort Monterey |
 | 2009 | May 7-9     | Riverside, Marriott Riverside |
-| 2010 | April 28-May 1 | Renaissance Seattle Hotel |
+| 2010 | April 28-May 1 | Seattle, WA, Renaissance Seattle Hotel |
 | 2011 | April 27-30 | San Jose, The Sainte Claire Hotel |
 | 2012 | April 26-28 | Ventura, Crowne Plaza Ventura Beach Hotel |
 | 2013 | April 11-13 | Berkeley, Double Tree Hotel, Berkeley Marina |
-| 2014 | May 8-10    | Renaissance Palm Springs Hotel, Palm Springs |
+| 2014 | May 8-10    | Palm Springs, Renaissance Palm Springs Hotel |
 | 2015 | May 27-30   | Denver, CO, Embassy Suites Downtown Convention Center |
 | 2016 | April 7-9   | Santa Rosa, Hyatt Vineyard Creek Hotel and Spa |
 | 2017 | April 27-29 | Pasadena, The Westin Pasadena |
@@ -55,6 +55,7 @@ title: 5-3 Annual General Meeting (AGM) History
 | 2019 | April 24-27 | Long Beach, Hilton |
 | 2020 | April 22-27 | San Francisco, InterContinental [cancelled due to Covid-19] |
 | 2021 | April 27-30 | Virtual Conference, hosted by Cvent |
+| 2022 | May 19-21   | Palm Springs, Renaissance Palm Springs Hotel |
 
 ## March 24-25, 1972: Los Angeles, UCLA Reiber Hall
 _First Annual Meeting and Organizational Meeting_
@@ -1746,6 +1747,47 @@ _Theme: Diversity and Inclusion_
   - SCA History video “vignettes”
   - Vendor Exhibitor Hall
 
+## May 19-21, 2022, Palm Springs, Renaissance Palm Springs Hotel
+_Theme: Archives Represent!_
+- Thursday:
+  - SCA Board Meeting
+  - Workshop: Preserving and Providing Access to Oral History Collections
+  - Workshop: Demystifying Digitization: Planning a Digitization Project from Start to Finish
+  - "Heart of the City” Walking Tour
+  - Leadership Meeting
+  - Opening Reception, Poolside at the Renaissance Palm Springs
+- Friday:
+  - New Member Meet and Greet
+  - Plenary Address: Archives Are People, by Audra Eagle Yun
+  - Sessions
+    - Challenges and Solutions to Indigenous Representation and Silences in the Memory Institutions of Santa Clara University: Part Two
+    - Lightening Round: Thinking Forward/Forward Thinking
+    - Working Together to Mentor BIPOC Archivists: A Discussion and Interactive Group Mentoring Session
+    - Giving Data Back to the Community through Computational Scholarship: Two Case Studies Focused on Japanese American Incarceree Records from World War II
+    - New Voices / New Directions: Preparing MLIS Students for People-Centered Archives
+    - From Evidence to Archives: Archival Labor and the Afterlife of Crime
+  - Brown Bag Lunch Meetings
+    - Hiring and Career Development in Academic Libraries
+    - OAC/Calisphere Contributor Meeting
+    - CSU Archives and Archivists Roundtable
+  - SCA Member Meeting followed by SCA Committee Meetings
+  - BIPOC Mixer
+  - Rare Books Palm Springs Cocktail Hour (hosted by Rare Books LA)
+  - Gourmet Night
+- Saturday:
+  - Sessions:
+    - Striving for Inclusion: CSUDH Library’s Approach to Promoting Social Justice Through Reparative Cataloging
+    - Artist Archives: From In Situ to Institution
+    - Equity, Diversity, and Inclusion (EDI) in Interpretive Work: Challenges and Opportunities
+    - Sharing Our Desert’s LGBTQ+ History: How It All Began
+    - Preservation for All: Accessible Cultural Heritage Care for Communities
+    - Setting SCA’s Advocacy Agenda
+    - How to Hold a Moon Container in Your Hand
+    - Words Have Power
+  - Awards Luncheon with Guest Speaker Kim Stringfellow, artist, educator, writer, and independent curator based in Joshua Tree, CA
+  - SCA Board Wrap-Up Meeting
+ 
+
 ***
 
-_Revision history: 5/89 dsn, 2/92jab, 5/93 dmc, 6/93 bh, ses 4/94, ppa 7/95, 6/98 lgr, 6/03 pww, 10/05 lo, 3/2006 board, 8/2008 jtm, 1/10 lo, 7/12 tep, 5/14 tep, 4/2016 llc, 01/2017 llc, 06/2017 llc, 06/2018 llc, 05/2019 llc, 01/2022 ck_
+_Revision history: 5/89 dsn, 2/92jab, 5/93 dmc, 6/93 bh, ses 4/94, ppa 7/95, 6/98 lgr, 6/03 pww, 10/05 lo, 3/2006 board, 8/2008 jtm, 1/10 lo, 7/12 tep, 5/14 tep, 4/2016 llc, 01/2017 llc, 06/2017 llc, 06/2018 llc, 05/2019 llc, 01/2022 ck, 03/23 lm_
