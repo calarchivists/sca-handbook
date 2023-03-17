@@ -24,7 +24,7 @@ _This history is to be updated as information surfaces from SCA archives or othe
 ## Constitution
 - Term of service: 19 October 1971 - 1972
 - Charge: Formulate the bylaws of the Society of California Archivists
--  Co-chairs: Casey Brooks and Patricia J. Palmer
+- Co-chairs: Casey Brooks and Patricia J. Palmer
 
 ## Bylaws Revision Committee
 - Term of service: 1976 -
@@ -138,7 +138,7 @@ _This history is to be updated as information surfaces from SCA archives or othe
 then recommend the best options to the SCA Board.
 - Chairs: Laura O'Hara and Maggie Hughes
 
-## Code of Ethics Task Force
+## Task Force on Professional Ethics and Inclusion 
 - Term of Service: 2018-2019
 - Charge: This special committee is tasked with reviewing SCA's need for a code of conduct, and to review the society's websites, programs, policies, and statements regarding the need for more inclusive language. The task force will make recommendations to the board regarding these
 potential needs, and if necessary also write a proposal to the board for creating a committee or other infrastructure to address these issues on an ongoing basis in the form of trainings, reporting, and review.
@@ -158,14 +158,21 @@ retention, and for the task force to suggest ways SCA can better advocate for it
 - Chairs: Courtney Dean and George Thompson
 
 ## Golden Anniversary Committee
-- Term of service: 2020-2022 (extended from 2021 due to COVID pandemic)
+- Term of Service: 2020-2022 (extended from 2021 due to COVID pandemic)
 - Charge: To coordinate activities in preparation for the Society’s 50th anniversary in 2021.
 - Chair: Gabriele Carey
 
+## Records Management Task Force
+- Term of Service: 2022-2024
+- Charge: This special committee is tasked with liaising with SCA’s committees and Board members in order to survey SCA’s active records, revise the existing records retention schedule for compliance with California non-profit law, and create a new records retention policy with the support of an outside consultant. The Task Force will recommend long-term storage solutions for the Society’s permanent records and assist the Board with communicating the new policy to SCA leadership.
+- Chairs: Jessica Gambling and Kelly Kress
+
+## Annual General Meeting (AGM) Review Task Force
+- Term of Service: 2022-2023
+- Charge: This special committee is tasked with examining the future of SCA’s Annual General Meeting and recommending changes to the current model in order to ensure the long-term sustainability of the meeting.
+- Chairs: Tanya Hollis and Teresa Mora
+
 ***
 
-_Revision history: 5/93 jab, 4/94 ppa, 7/95 ppa, 3/10 lo, 01/2017 llc, 06/2018 llc, 04/2019 llc, 05/2019 llc, 01/2022
-ck_
-***
+_Revision history: 5/93 jab, 4/94 ppa, 7/95 ppa, 3/10 lo, 01/2017 llc, 06/2018 llc, 04/2019 llc, 05/2019 llc, 01/2022 ck, 03/23 lm_
 
-_Revision history: _
