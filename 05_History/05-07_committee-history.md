@@ -11,16 +11,20 @@ Sturgis_).
 _This history is to be updated as information surfaces from SCA archives or other sources._
 
 ## Advocacy and Public Policy
-- Lisa Mix (2020-2023)
+_Committee established in 2020 to succeed Government Affairs Committee, which was discontinued at the same time_ 
+- Lisa Mix (2020-2022)
+
+_Committe charge and name changed in 2022 to Labor, Advocacy, and Public Policy Committee_
 
 ## Automation
 - Nicole Bouché (1987-1989)
 - Robert B. Freeman (1989-1991)
 - Dennis Bitterlich (1991-1992)
-- _Committee discontinued in 1991/2 at recommendation of the Task Force on Committees_
+
+_Committee discontinued in 1991/2 at recommendation of the Task Force on Committees_
 
 ## Awards
-- _Committee created in 1991/2 at recommendation of the Task Force on Committees_
+_Committee created in 1991/2 at recommendation of the Task Force on Committees_
 - Robin Chandler (1992-1993)
 - Steven Mandeville Gamble (1993-1994)
 - Helene Whitson (1994-1995)
@@ -28,21 +32,26 @@ _This history is to be updated as information surfaces from SCA archives or othe
 - Chuck Wilson (1996-2017)
 - Julie Graham (2017-2018)
 - Jennifer Martinez-Wormser (2018-2019)
-- James Eason (2020-2023)
+- James Eason (2020-2022)
+- Lisa Crane (2022-2023)
 
 ## Communications & Outreach
-- _Committee formed in 2017 due to merger of Electronic Communications Committee and Outreach & Publicity Committee_
+_Committee formed in 2017 due to merger of Electronic Communications Committee and Outreach & Publicity Committee_
 - Jack Doran (2017-2018)
 - Charla DelaCuadra (2016-2019)
 - Kelsi Evans (2018-2021)
 - Veronica Lara (2019-2022)
 - Steve Kutay (2021-2024)
+- Anna Martino (2022-2025)
+- April Feldman (2022-2025)
 
 ## Conservation
 - Gloria Scott (1982-1983)
 - Barbara Sawka (1983-1985)
 - Genevieve Troka (1985-1987)
 - Jane Klinger Freeman (1989-1991)
+
+_Committee discontinued in 1991/2 at recommendation of the Task Force on Committees_
 
 ## Development
 - Sue Hodson (1992-2006)
@@ -58,6 +67,7 @@ _This history is to be updated as information surfaces from SCA archives or othe
 - Kate Dundon (2018-2021)
 - Suzanne Noruschat (2019-2022)
 - Jaime Henderson (2020-2023)
+- Presley Hubschmitt (2022-2025)
 
 ## Education
 - Nancy Zinn (1980-1981)
@@ -89,11 +99,12 @@ _This history is to be updated as information surfaces from SCA archives or othe
 - Mallory Furnier (2018-2021)
 - Adrienne Storey (2021-2024)
 - Sandy Enriquez (2021-2024)
+- Emily Homolka (2022-2025)
 
 ## Education – Vice Chair for Online Education
 - Audra Eagle Yun (2018)
 - Christine Kim (2019-2021)
-- Karina Cardenas (2021-2024
+- Karina Cardenas (2021-2022)
 
 ## Election
 - Anna DeVore (1979-1980)
@@ -114,21 +125,23 @@ _This history is to be updated as information surfaces from SCA archives or othe
 - Julie Graham (2013)
 - Peter Runge (2013-2016)
 - Rand Boyd (2016-2019)
-- Marlayna K. Christensen (2019-2022)
+- Marlayna K. Christensen (2019-2023)
 
 ## Electronic Communications
-- _Established in 2012 to succeed Web Site Committee, which was abolished at same time._
+_Established in 2012 to succeed Web Site Committee, which was abolished at same time._
 - Sarah Wilson (2012-2013)
-- Sue Hwang (2013-2017 )
-- Supriya Wronkiewicz (2013-2017 )
-- _Merged with Outreach & Publicity Committee in 2017 to create Communications & Outreach Committee_
+- Sue Hwang (2013-2017)
+- Supriya Wronkiewicz (2013-2017)
+
+_Merged with Outreach & Publicity Committee in 2017 to create Communications & Outreach Committee_
 
 ## Ethics and Inclusion
-- _Established in 2019_
+_Established in 2019 upon recommedation of the Task Force on Professional Ethics and Inclusion._
 - Zayda Delgado (2019-2020)
 - Eva Martinez (2019-2020)
-- Penne Neder-Muro (2020-2022)
+- Penny Neder-Muro (2020-2022)
 - Stefani L. Baldivia (2020-2023)
+- Jenn Ho (2022-2024)
 
 ## Finance and Investment
 - Linda Johnson (2002-2006)
@@ -138,6 +151,7 @@ _This history is to be updated as information surfaces from SCA archives or othe
 - Kate Tasker (2016-2018)
 - Liz Phillips (2018-2020)
 - Lara Michels (2020-2022)
+- Alex Post (2022-2024)
 
 ## Government Affairs
 - J.T.K. Carter (1987-1988)
@@ -154,7 +168,14 @@ _This history is to be updated as information surfaces from SCA archives or othe
 - Lucy Barber (2003-2006)
 - David Keller (2006-2017)
 - Genevieve Preston (2017-2020)
-- _Discontinued in 2020; became Advocacy and Public Policy Committee_
+
+_Discontinued in 2020; became Advocacy and Public Policy Committee_
+
+## Labor, Advocacy, and Public Policy
+_Committee established in 2022 to succeed Advocacy and Public Policy Committe_
+- Lisa Mix (2021-2022)
+- Marissa Friedman (2021-2024)
+- Melissa Haley (2022-2025)
 
 ## Local Arrangements
 - JoAnn Williamson (1972-1973)
@@ -210,6 +231,7 @@ _This history is to be updated as information surfaces from SCA archives or othe
 - Ellen Jarosz (2020-2022)
 - Alex Post (2020-2023)
 - Sara Gunasekara (2021-2024)
+- Kelsey Knox (2022-2025)
 
 ## Membership
 - Paula Sigman (1982-1984)
@@ -218,7 +240,8 @@ _This history is to be updated as information surfaces from SCA archives or othe
 - Suzanne Dewberry (1987-1992)
 - M.E. Bailey (1991-1992)
 - Julie Reiz (1992-1994)
-- _In 1995, a Board Member-at-Large was assigned to be Membership Director, duties include chairing committee_
+
+_In 1995, a Board Member-at-Large was assigned to be Membership Director, duties include chairing committee_
 - Paul Wormser (1995-1997)
 - Sydney Bailey (1997-1999)
 - Terry Boom (1999-2001)
@@ -234,6 +257,7 @@ _This history is to be updated as information surfaces from SCA archives or othe
 ## Membership – Vice Chair for Member Activities
 - Kate Tasker (2014-2016)
 - Jessica Gambling (2016-2021)
+- Amalia Castañeda (2022-2025)
 
 ## Newsletter
 - Ralph Hansen (1972-1974)
@@ -248,7 +272,8 @@ _This history is to be updated as information surfaces from SCA archives or othe
 - Loren Pigniolo (1988-1991)
 - Scott Olsen (1990-1991)
 - Susan Allen (1991-1993)
-- _Committee was subsumed into Publications in 1991/2 at recommendation of the Task Force on Committees_
+
+_Committee was subsumed into Publications in 1991/2 at recommendation of the Task Force on Committees_
 
 ## Nominating (Chairs)
 - Ann Caiger (1980-1981)
@@ -293,9 +318,10 @@ _This history is to be updated as information surfaces from SCA archives or othe
 - Teresa Mora (2019-2020)
 - Eric Milenkiewicz (2020-2021)
 - Tanya Hollis (2021-2022)
+- Leilani Marshall (2022-2023)
 
 ## Nominating (Elected members)
-- _(Listing compiled, retrospectively, in 2015. Information incomplete)_
+_(Listing compiled, retrospectively, in 2015. Information incomplete)_
 - Robert Marshall (1999-2000?)
 - James Eason (1999-2000?)
 - Lucy Barber (2003-2004?)
@@ -318,6 +344,7 @@ _This history is to be updated as information surfaces from SCA archives or othe
 - Erin Hurley (2019-2021)
 - Elena Colón-Marrero (2020-2022)
 - Azalea Camacho (2021-2023)
+- Aza Babayan (2022-2024)
 
 ## Outreach and Publicity
 - Anne Schlosser (1984-1985) _Archives Awareness and Outreach Committee_
@@ -336,11 +363,13 @@ _This history is to be updated as information surfaces from SCA archives or othe
 - Brooke Black (2009-2016)
 - Jessica Knox (2011-2014)
 - Jack Doran (2014-2017)
-- _Merged with Electronic Communications Committee in 2017 to create Communications & Outreach Committee_
+
+_Merged with Electronic Communications Committee in 2017 to create Communications & Outreach Committee_
 
 ## Preservation
 - Jane Klinger Freeman (1990-1992)
-- _Committee discontinued in 1991/2 at recommendation of the Task Force on Committees_
+
+_Committee discontinued in 1991/2 at recommendation of the Task Force on Committees_
 
 ## Program
 - JoAnn Williamson (1979-1980)
@@ -387,13 +416,15 @@ _This history is to be updated as information surfaces from SCA archives or othe
 - Tanya Hollis (2019-2020)
 - Leilani Marshall (2020-2021)
 - Liza Posas (2021-2022)
+- Lisa Mix (2022-2023)
 
 ## Publications
 - Ken Rossman (1982-1984)
 - Bruce Parham (1983-1985)
 - Nartha Briggs (1985-1986)
 - Peter Blodgett (1986-1994)
-- _Newsletter became part of Publications in 1991/2 at recommendation of the Task Force on Committees_
+
+_Newsletter became part of Publications in 1991/2 at recommendation of the Task Force on Committees_
 - Susan Allen (editor 1992-1993)
 - Dan Lewis (editor 1993-1996)
 - Dan Lewis (1994-2001)
@@ -435,14 +466,16 @@ _This history is to be updated as information surfaces from SCA archives or othe
 - Eric Milenkiewicz (2015-2018)
 - Michele Morgan (2017-2020)
 - Ellen Jarosz (2018-2021)
-- _Committee discontinued after 2020 reconfiguration of Local Arrangements Committee_
+
+_Committee discontinued after 2020 reconfiguration of Local Arrangements Committee_
 
 ## Web Site
-- _Initial web site created by Paul Wormser and Dennis Bitterlich in 1998_
-- _Committee established 2006_
+_Initial web site created by Paul Wormser and Dennis Bitterlich in 1998_
+_Committee established 2006_
 - Carolyn Garner (2000-2006)
 - Julie Cooper (2006-2012)
-- _Committee succeeded by Electronic Communications Committee in 2012_
+
+_Committee succeeded by Electronic Communications Committee in 2012_
 
 ## Western Archives Institute Joint Management
 - Laren Metzer (1989-1990)
@@ -465,7 +498,9 @@ _This history is to be updated as information surfaces from SCA archives or othe
 - Nancy Zimmelman (Special Institute for Native American and Tribal Archivists, 2003)
 - Sydney Bailey (2018)
 - Erin Louthen (2019)
-- _[Cancelled 2020]_
+- _[Cancelled 2020]
+
+_On-Site Coordinator superseded by WAI Program Coordinator when WAI moved into online format in 2021_
 
 ## WAI Program Coordinator
 - Erin Louthen (2021)
@@ -477,7 +512,7 @@ _This history is to be updated as information surfaces from SCA archives or othe
 - Charlene Gilbert Noytes (2002-2005)
 - Jane Rosario (2005-2007)
 - Ellen Jarosz (2007-2020)
-- Veronica Lara (2020- )
+- Veronica Lara (2020-2021)
 
 ## WAI Site Selection
 - Nancy Zimmelman (1993)
@@ -494,4 +529,4 @@ _This history is to be updated as information surfaces from SCA archives or othe
 
 ***
 
-_Revision history: 5/93 jab, 4/10 lo, 7/12 tep, 5/14 tep, 01/2017 llc, 06/2017 llc, 10/2017 llc, 06/2018 llc, 04/2019 llc, 05/2019 llc, 01/2022 ck_
+_Revision history: 5/93 jab, 4/10 lo, 7/12 tep, 5/14 tep, 01/2017 llc, 06/2017 llc, 10/2017 llc, 06/2018 llc, 04/2019 llc, 05/2019 llc, 01/2022 ck, 03/23 lm_
