@@ -76,6 +76,7 @@ In 2015 changes to the California Nonprofit Corporations Code resulted in a chan
 - Eric Milenkiewicz (2019-2020)
 - Tanya Hollis (2020-2021)
 - Leilani Marshall (2021-2022)
+- Liza Posas (2022-2023)
 
 ## Vice President (and President-elect after 1978)
 - Jean F. Preston (1972-1975)
@@ -128,6 +129,7 @@ In 2015 changes to the California Nonprofit Corporations Code resulted in a chan
 - Tanya Hollis (2019-2020)
 - Leilani Marshall (2020-2021)
 - Liza Posas (2021-2022)
+- Lisa Mix (2022-2023)
 
 ## Secretary/Treasurer (position divided 1978)
 - J. R. K. Kantor (1972-1974)
@@ -173,6 +175,7 @@ In 2015 changes to the California Nonprofit Corporations Code resulted in a chan
 - Kate Tasker (2016-2018)
 - Liz Phillips (2018-2020)
 - Lara Michels (2020-2022)
+- Alex Post (2022-2024)
 
 ## Membership Director (new position 1995)
 - Paul Wormser (1995-1997)
@@ -258,6 +261,7 @@ In 2015 changes to the California Nonprofit Corporations Code resulted in a chan
 - Sara Seltzer (2019-2021)
 - Susan Luftschein (2020-2022)
 - Kate Dundon (2021-2023)
+- Mallory Furnier (2022-2024)
 
 ## Immediate Past President (Voting member after 2015)
 - Clay Stalls (2015-2016)
@@ -267,8 +271,9 @@ In 2015 changes to the California Nonprofit Corporations Code resulted in a chan
 - Teresa Mora (2019-2020)
 - Eric Milenkiewicz (2020-2021)
 - Tanya Hollis (2021-2022)
+- Leilani Marshall (2022-2023)
 
 ***
 
 _Revision history: 4/90 nlb, 1/91 nlb, 6/92 jab, 5/93 jab, 4/94 ppa, 7/95 ppa, 6/98 lgr, 10/05 lo, 7/08 jtm, 1/11 lo,
-7/12 tep, 5/14 tep, 01/2017 llc, 06/2017 llc, 06/2018 llc, 04/2019 llc, 05/2019 llc, 01/2022 ck_
+7/12 tep, 5/14 tep, 01/2017 llc, 06/2017 llc, 06/2018 llc, 04/2019 llc, 05/2019 llc, 01/2022 ck, 03/23 lm_
