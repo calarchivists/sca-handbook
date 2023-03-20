@@ -13,7 +13,6 @@ This committee also disseminates information about the archives profession, SCA 
 
 Composition of the committee and terms of office are defined in Handbook section 3-1 and governed by the Bylaws.
 
-
 ### Website Blog Posting Policy
 Ability to post to the blog is restricted to SCA Board Members, SCA Committee Chairs, and guest bloggers from the SCA general membership. Any non-members wishing to post content to the blog would need to contact the Communications & Outreach Committee Co-Chairs and provide the content to be posted on their behalf. Guidelines for submitting SCA blog content are found at https://calarchivists.org/resources/Documents/Blog/Guidelines%20for%20SCA%20Bloggers2022.pdf. Criteria for posting content is the same as posting any content on the homepage: it should be directly relevant to SCA and/or refer to a SCA publication. Committee Chairs are encouraged to promote committee activity on the SCA Homepage, especially Publications, which should share newsletter content.
 
@@ -56,4 +55,4 @@ General responsibilities are outlined in Handbook section 3-1.  C&O is responsib
 
 ***
 
-_Revision history: 10/2017 llc, 06/2018 llc_, _03/2023 sk_
+_Revision history: 10/2017 llc, 06/2018 llc, 03/2023 sk_
