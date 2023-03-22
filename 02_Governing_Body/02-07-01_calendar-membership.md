@@ -17,7 +17,7 @@ title: 2-7-1 Calendar: Membership
 | July 1           | Export online membership database into a standardized digital format for long term preservation |
 | July 1           | Remove all member profiles that have had a member status of “lapsed” for more than two years from the active online membership database |
 | August 15        | Process all memberships awarded to WAI participants |
-| September 1      | Provide list of all active members from previous membership year to the Outreach and Publicity committee chair for Archives Month poster distribution |
+| September 1      | Provide list of all active members from previous membership year to the Communications and Outreach committee chair for Archives Month poster distribution |
 | October/November | Provides committee chairs with a list of names and contact information for new/continuing members who have expressed an interest in committee work |
 | October/November | Board meeting |
 
