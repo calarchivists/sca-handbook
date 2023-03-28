@@ -57,4 +57,5 @@
   - 3-15-4   [Western Archives Institute On-Site Coordinator]({{ site.baseurl }}{{ page.dir }}03-15-04_wai-onsite-coord.html)
   - 3-15-5   [WAI Sponsor Responsibilities: California State Archives]({{ site.baseurl }}{{ page.dir }}03-15-05_wai-sponsor-csa.html)
   - 3-15-6   [WAI Sponsor Responsibilities: Society of California Archivists]({{ site.baseurl }}{{ page.dir }}03-15-06_wai-sponsor-sca.html)
+  - 3-15-7   [SCA Treasurer's WAI Role]({{ site.baseurl }}{{ page.dir }}03-15-07_sca-treasurer-wai-role.html)
 - 3-16   [Special Committees and Task Forces]({{ site.baseurl }}{{ page.dir }}03-16_special-committees.html)
