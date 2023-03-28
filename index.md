@@ -20,6 +20,7 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
   - 1-9-4     [Records Retention Schedule]({{ site.baseurl }}/01_Introductory_Material/01-09-04_records-retention.html)
   - 1-9-5     [Records Destruction Calendar]({{ site.baseurl }}/01_Introductory_Material/01-09-05_records-destruction.html)
   - 1-9-6     [SCA Archives]({{ site.baseurl }}/01_Introductory_Material/01-09-06_sca-archives.html)
+  - 1-9-7     [Regular Assessment of Member Services]({{ site.baseurl }}/01_Introductory_Material/01-09-07_regular-assessment.html)
 
 ## [Part 2: Governing Body ]({{ site.baseurl }}/02_Governing_Body/)
 - 2-1     [Board of Directors]({{ site.baseurl }}/02_Governing_Body/02-01_board-of-directors.html)
@@ -112,6 +113,7 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
   - 3-15-4   [Western Archives Institute On-Site Coordinator]({{ site.baseurl }}/03_Committees/03-15-04_wai-onsite-coord.html)
   - 3-15-5   [WAI Sponsor Responsibilities: California State Archives]({{ site.baseurl }}/03_Committees/03-15-05_wai-sponsor-csa.html)
   - 3-15-6   [WAI Sponsor Responsibilities: Society of California Archivists]({{ site.baseurl }}/03_Committees/03-15-06_wai-sponsor-sca.html)
+  - 3-15-7   [SCA Treasurer's WAI Role]({{ site.baseurl }}/03_Committees/03-15-07_sca-treasurer-wai-role.html)
 - 3-16   [Special Committees and Task Forces]({{ site.baseurl }}/03_Committees/03-16_special-committees.html)
 
 ## [Part 4: External Relations]({{ site.baseurl }}/04_External_Relations/)
