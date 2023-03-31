@@ -19,12 +19,10 @@ General responsibilities are outlined in Handbook section 3-1.
 2. Contacts non-renewals to encourage them to renew their memberships. In discussing the advantages of SCA membership, the following points might be made:
 
    a. Only members are eligible for member registration rates at Annual General Meeting (AGM) and other programs
-3. Collects membership brochures from other similar organizations. Submits for Board approval any changes in the format of the brochure.
-4. Provides copies of the current membership brochure to the Outreach and Publicity committee for SCA functions when requested.
-5. Oversees membership surveys to monitor shifts in member interests and concerns when requested by the Board. Findings are reported to the Board and then to the membership via appropriate print or electronic communications. Survey topics are set and approved by the Board. The Membership Committee works with other committees, as needed, to produce, assess, and report survey results.
-6. Assists with the planning of new member events at the Annual General Meeting.
-7. Assists with the management of the online membership database and related projects pertaining to membership as needed.
+3. Oversees membership surveys to monitor shifts in member interests and concerns when requested by the Board. Findings are reported to the Board and then to the membership via appropriate print or electronic communications. Survey topics are set and approved by the Board. The Membership Committee works with other committees, as needed, to produce, assess, and report survey results.
+4. Assists with the planning of new member events at the Annual General Meeting.
+5. Assists with the management of the online membership database and related projects pertaining to membership as needed.
 
 ***
 
-_Revision history: 4/90 nlb, 5/91 nlb, 8/92 dmc, 5/93 dmc, 10/05 lo, 1/10 lo, 4/13 em, 04/2019 llc, 02/2020 mh_
+_Revision history: 4/90 nlb, 5/91 nlb, 8/92 dmc, 5/93 dmc, 10/05 lo, 1/10 lo, 4/13 em, 04/2019 llc, 02/2020 mh, 03/2023 an_
