@@ -23,7 +23,7 @@ title: 2-4-2 Handbook Review and Update Assignments
 | 1-9-4 Records Retention Schedule   | Archives |
 | 1-9-5 Records Destruction Calendar | Archives |
 | 1-9-6 SCA Archives: Finding Aid    | Secretary |
-| 1-9-7 Regular Assessment of Member Services | ? |
+| 1-9-7 Regular Assessment of Member Services | President |
 
 ## 2 Governing Body
 
@@ -121,7 +121,7 @@ title: 2-4-2 Handbook Review and Update Assignments
 | 3-15-4 WAI On-Site Coordinator            | WAI Administrator |
 | 3-15-5 WAI Sponsor Responsibilities: California State Archives | WAI Administrator |
 | 3-15-6 WAI Sponsor Responsibilities: Society of California Archivists | WAI Administrator |
-| 3-15-7 SCA Treasurer's WAI Role | ? |
+| 3-15-7 SCA Treasurer's WAI Role | WAI Administrator |
 | 3-16 Special Committees and Task Forces   | President |
 
 ## 4 External Relations and Affinity Groups
@@ -149,4 +149,4 @@ title: 2-4-2 Handbook Review and Update Assignments
 ***
 
 _Revision history: 5/93 jab, 6/93 bh, 5/11 jmw, 06/2017 llc, 10/2017 llc, 01/2018 llc, 02/2018 llc, 06/2018 llc,
-04/2019 llc, 02/2020 mh, 01/2023 ck_
+04/2019 llc, 02/2020 mh, 04/2023 ck_
