@@ -57,7 +57,7 @@ title: 2-4-2 Handbook Review and Update Assignments
 | 2-7-4 Welcome Letter (sample)            | Membership Director |
 | 2-7-5 Membership List                    | Membership Director |
 | 2-7-6 Membership Form                    | Membership Director |
-| 2-8 Directors at Large                   | Members at Large |
+| 2-8 Directors at Large                   | Directors at Large |
 
 ## 3 Committees
 
