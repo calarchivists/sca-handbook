@@ -15,13 +15,15 @@ title: 2-4-2 Handbook Review and Update Assignments
 | 1-5 Core Values                    | Secretary |
 | 1-6 Code of Conduct                | Secretary |
 | 1-7 SCA Privacy Policy             | Secretary |
-| 1-8 Administrative Information     | Secretary |
-| 1-8-1 Calendar: SCA                | President |
-| 1-8-2 Mailing Information          | Secretary |
-| 1-8-3 SCA Identity Guidelines      | Secretary |
-| 1-8-4 Records Retention Schedule   | Archives |
-| 1-8-5 Records Destruction Calendar | Archives |
-| 1-8-6 SCA Archives: Finding Aid    | Archives |
+| 1-8 SCA Photography Policy         | Secretary |
+| 1-9 Administrative Information     | Secretary |
+| 1-9-1 Calendar: SCA                | President |
+| 1-9-2 Mailing Information          | Secretary |
+| 1-9-3 SCA Identity Guidelines      | Secretary |
+| 1-9-4 Records Retention Schedule   | Archives |
+| 1-9-5 Records Destruction Calendar | Archives |
+| 1-9-6 SCA Archives: Finding Aid    | Secretary |
+| 1-9-7 Regular Assessment of Member Services | President |
 
 ## 2 Governing Body
 
@@ -62,36 +64,40 @@ title: 2-4-2 Handbook Review and Update Assignments
 | **Section Description** | **Individual Responsible for Updates** |
 | 3-1 Committees                            | President |
 | 3-1-1 Quarterly Report Format             | Secretary |
-| 3-2 Awards Committee                      | Awards Ctte. |
-| 3-2-1 Archives Appreciation Award         | Awards Ctte. |
-| 3-2-2 Career Achievement Award            | Awards Ctte. |
-| 3-2-3 Sustained Service Award             | Awards Ctte. |
-| 3-2-4 Co-sponsored Award: Archival Award of Excellence | Awards Ctte. |
-| 3-2-5 James V. Mink Scholarship           | Awards Ctte. |
-| 3-2-5-1 Mink Scholarship Application Form (sample) | Awards Ctte. |
-| 3-2-6 Gray Scholarship and Guidelines     | Awards Ctte. |
-| 3-2-7 Lynn A. Bonfield Professional Development Award | Awards Ctte. |
-| 3-3 Communications and Outreach Committee | Com & Outreach Ctte. |
-| 3-4 Development Committee                 | Development Ctte. |
-| 3-4-1 Contribution Form (sample)          | Development Ctte. |
-| 3-4-2 Vendor Registration Form (sample)   | Development Ctte. |
-| 3-5 Education Committee                   | Education Ctte. |
-| 3-5-1 Education Committee Workshops       | Education Ctte. |
-| 3-5-2 Workshop Checklist                  | Education Ctte. |
-| 3-5-3 Workshop Evaluation Form (sample )  | Education Ctte. |
-| 3-5-4 Vice-Chair for Online Education     | Education Ctte. |
-| 3-6 Election Committee                    | Election Ctte. |
-| 3-6-1 Calendar: Election and Nomination Committees | Past President |
-| 3-6-2 SCA Ballot (sample)                 | Election Ctte. |
-| 3-6-2-1 Official Ballot Instructions (sample) | Election Ctte. |
-| 3-7 Ethics and Inclusion Committee        | E & I Ctte. |
-| 3-8 Finance and Investment Committee      | Treasurer |
-| 3-8-1 SCA Investment Policy Statement     | Finance & Investmt Ctte. |
-| 3-9 Government Affairs Committee          | Government Affairs Ctte. |
+| 3-2 Labor, Advocacy, and Public Policy Committee | LAPP Ctte. |
+| 3-3 Awards Committee                      | Awards Ctte. |
+| 3-3-1 Archives Appreciation Award         | Awards Ctte. |
+| 3-3-2 Career Achievement Award            | Awards Ctte. |
+| 3-3-3 Sustained Service Award             | Awards Ctte. |
+| 3-3-4 Co-sponsored Award: Archival Award of Excellence | Awards Ctte. |
+| 3-3-5 James V. Mink Scholarship           | Awards Ctte. |
+| 3-3-5-1 Mink Scholarship Application Form (sample) | Awards Ctte. |
+| 3-3-6 Gray Scholarship and Guidelines     | Awards Ctte. |
+| 3-3-7 Lynn A. Bonfield Professional Development Award | Awards Ctte. |
+| 3-3-8 Advancing Equity: Graduate Education Scholarship | Awards Ctte. |
+| 3-3-9 Advancing Equity: Continuing Education Funding | Awards Ctte. |
+| 3-4 Communications and Outreach Committee | Com & Outreach Ctte. |
+| 3-5 Development Committee                 | Development Ctte. |
+| 3-5-1 Contribution Form (sample)          | Development Ctte. |
+| 3-5-2 Vendor Registration Form (sample)   | Development Ctte. |
+| 3-6 Education Committee                   | Education Ctte. |
+| 3-6-1 Education Committee Workshops       | Education Ctte. |
+| 3-6-2 Workshop Checklist                  | Education Ctte. |
+| 3-6-3 Workshop Evaluation Form (sample )  | Education Ctte. |
+| 3-6-4 Vice-Chair for Online Education     | Education Ctte. |
+| 3-7 Election Committee                    | Election Ctte. |
+| 3-7-1 Calendar: Election and Nomination Committees | Past President |
+| 3-7-2 SCA Ballot (sample)                 | Election Ctte. |
+| 3-7-2-1 Official Ballot Instructions (sample) | Election Ctte. |
+| 3-8 Ethics and Inclusion Committee        | E & I Ctte. |
+| 3-9 Finance and Investment Committee      | Treasurer |
+| 3-9-1 SCA Investment Policy Statement     | Treasurer |
 | 3-10 Local Arrangements Committee: Annual General Meeting (AGM) | Local Arrangements Ctte. |
 | 3-10-1 AGM Budget/Financial Report Format | Vice President |
 | 3-10-2 AGM Local Arrangements Checklist   | Local Arrangements Ctte. |
 | 3-10-3 Local Arrangements Calendar        | Local Arrangements Ctte. |
+| 3-10-4 Site Selection Checklist           | Local Arrangements Ctte. |
+| 3-10-5 Local Arrangements Compensation Guidelines | Local Arrangements Ctte. |
 | 3-11 Membership Committee                 | Membership Director |
 | 3-11-1 Vice Chair for Member Activities   | Membership Director |
 | 3-12 Nominating Committee                 | Past President |
@@ -108,23 +114,22 @@ title: 2-4-2 Handbook Review and Update Assignments
 | 3-14-1 Newsletter                         | Publications Ctte. |
 | 3-14-1-1 Advertising Rates for Newsletter | Publications Ctte. |
 | 3-14-1-2 Advertisement Sizes              | Publications Ctte. |
-| 3-15 Site Selection Committee (AGM)       | Site Selection Ctte. |
-| 3-15-1 Site Selection Checklist           | Site Selection Ctte. |
-| 3-16 Western Archives Institute (WAI)     | WAI Administrator |
-| 3-16-1 WAI Administrator                  | WAI Administrator |
-| 3-16-2 WAI Assistant/Associate Administrator | WAI Administrator |
-| 3-16-3 WAI Joint Management               | WAI Administrator |
-| 3-16-4 WAI On-Site Coordinator            | WAI Administrator |
-| 3-16-5 WAI Sponsor Responsibilities: California State Archives | WAI Administrator |
-| 3-16-6 WAI Sponsor Responsibilities: Society of California Archivists | WAI Administrator |
-| 3-17 Special Committees and Task Forces   | President |
+| 3-15 Western Archives Institute (WAI)     | WAI Administrator |
+| 3-15-1 WAI Administrator                  | WAI Administrator |
+| 3-15-2 WAI Assistant/Associate Administrator | WAI Administrator |
+| 3-15-3 WAI Joint Management               | WAI Administrator |
+| 3-15-4 WAI On-Site Coordinator            | WAI Administrator |
+| 3-15-5 WAI Sponsor Responsibilities: California State Archives | WAI Administrator |
+| 3-15-6 WAI Sponsor Responsibilities: Society of California Archivists | WAI Administrator |
+| 3-15-7 SCA Treasurer's WAI Role | WAI Administrator |
+| 3-16 Special Committees and Task Forces   | President |
 
 ## 4 External Relations and Affinity Groups
 
 | **Section Description** | **Individual Responsible for Updates** |
 | 4-1 External Relations and Affinity Groups | President |
 | 4-1-1 Affinity Groups                      | President |
-| 4-1-2 Archives Month                       | O & P Ctte. |
+| 4-1-2 Archives Month                       | Com & Outreach Ctte. |
 | 4-1-3 CHRAB                                | President |
 | 4-1-3-1 Archival Award of Excellence       | Awards Ctte. |
 | 4-1-4 Journal of Western Archives          | President |
@@ -144,4 +149,4 @@ title: 2-4-2 Handbook Review and Update Assignments
 ***
 
 _Revision history: 5/93 jab, 6/93 bh, 5/11 jmw, 06/2017 llc, 10/2017 llc, 01/2018 llc, 02/2018 llc, 06/2018 llc,
-04/2019 llc, 02/2020 mh_
+04/2019 llc, 02/2020 mh, 04/2023 ck_
