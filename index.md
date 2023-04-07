@@ -52,7 +52,7 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
   - 2-7-4     [Membership Welcome Letter (Sample)]({{ site.baseurl }}/02_Governing_Body/02-07-04_membership-welcome.html)
   - 2-7-5     [Membership List]({{ site.baseurl }}/02_Governing_Body/02-07-05_membership-list.html)
   - 2-7-6     [Membership Form]({{ site.baseurl }}/02_Governing_Body/02-07-06_membership-form.html)
-- 2-8     [Members at Large]({{ site.baseurl }}/02_Governing_Body/02-08_members-at-large.html)
+- 2-8     [Directors at Large]({{ site.baseurl }}/02_Governing_Body/02-08_directors-at-large.html)
 
 ## [Part 3: Committees]({{ site.baseurl }}/03_Committees/)
 - 3-1     [Committees]({{ site.baseurl }}/03_Committees/03-01_committees.html)
