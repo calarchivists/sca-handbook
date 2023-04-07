@@ -1,7 +1,7 @@
 # Part 3:  Committees
 - 3-1     [Committees]({{ site.baseurl }}{{ page.dir }}03-01_committees.html)
   - 3-1-1     [Quarterly Report Format]({{ site.baseurl }}{{ page.dir }}03-01-01_quarterly-report-format.html)
-- 3-2     [Advocacy and Public Policy Committee]({{ site.baseurl }}{{ page.dir }}03-02_advocacy-and-public-policy.html)
+- 3-2     [Labor, Advocacy, and Public Policy Committee]({{ site.baseurl }}{{ page.dir }}03-02_advocacy-and-public-policy.html)
 - 3-3     [Awards Committee]({{ site.baseurl }}{{ page.dir }}03-03_awards.html)
   - 3-3-1     [Archives Appreciation Award]({{ site.baseurl }}{{ page.dir }}03-03-01_archives-appreciation.html)
   - 3-3-2     [Career Achievement Award]({{ site.baseurl }}{{ page.dir }}03-03-02_career-achievement.html)
