@@ -33,8 +33,7 @@ conference workshops, conference sessions, meals, plenary addresses, and other e
 - Posts the SCA Code of Conduct at the AGM.
 - Creates, distributes, and collects evaluation forms at the AGM.
 - Coordinates silent auction/education endowment prizes and event(s) with Development Committee.
-- Acts as liaison with Program Committee and hotel staff to ensure on-site needs are met.Post
-- 
+- Acts as liaison with Program Committee and hotel staff to ensure on-site needs are met.
 
 ## Post-AGM Tasks
 - Submits a final report to the Board no later than the Board’s next quarterly meeting following the completion of the AGM.
