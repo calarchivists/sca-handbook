@@ -28,7 +28,7 @@ General responsibilities are outlined in Handbook section 3-1.
     - Archives Appreciation Award (maximum two lunches may be awarded),
     - Sustained Service (one lunch awarded),
     - Mink (up to two lunches may be awarded),
-    - Advancing Equity: Graduate Education Scholarship (one lunch awarded)
+    - Advancing Equity: Graduate Education Scholarship (one lunch awarded),
     - Career Achievement (one lunch awarded),
     - and Archival Award of Excellence (co-sponsored by CHRAB) - one lunch for individual awardee and up to two lunches for organizational.
 
