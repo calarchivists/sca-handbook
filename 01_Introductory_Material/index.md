@@ -14,3 +14,4 @@
   - 1-9-4     [Records Retention Schedule]({{ site.baseurl }}{{ page.dir }}01-09-04_records-retention.html)
   - 1-9-5     [Records Destruction Calendar]({{ site.baseurl }}{{ page.dir }}01-09-05_records-destruction.html)
   - 1-9-6     [SCA Archives]({{ site.baseurl }}{{ page.dir }}01-09-06_sca-archives.html)
+  - 1-9-7     [Regular Assessment of Member Services]({{ site.baseurl }}{{ page.dir }}01-09-07_regular-assessment.html)
