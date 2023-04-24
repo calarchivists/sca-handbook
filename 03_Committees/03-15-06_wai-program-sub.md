@@ -1,9 +1,9 @@
 ---
-title: 3-15-6 Program Subcommittee
+title: 3-15-6 WAI: Program Subcommittee
 
 ---
 
-# 3-15-6 Program Subcommittee
+# 3-15-6 WAI: Program Subcommittee
 
 ## General Description
 
