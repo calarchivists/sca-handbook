@@ -498,7 +498,7 @@ _Committee succeeded by Electronic Communications Committee in 2012_
 - Nancy Zimmelman (Special Institute for Native American and Tribal Archivists, 2003)
 - Sydney Bailey (2018)
 - Erin Louthen (2019)
-- _[Cancelled 2020]
+- _[Cancelled 2020]_
 
 _On-Site Coordinator superseded by WAI Program Coordinator when WAI moved into online format in 2021_
 
