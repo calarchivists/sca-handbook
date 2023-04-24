@@ -1,9 +1,9 @@
 ---
-title: 3-15-3 Administrator & Vice Chair
+title: 3-15-3 WAI: Administrator & Vice Chair
 
 ---
 
-# 3-15-3 Administrator & Vice Chair
+# 3-15-3 WAI: Administrator & Vice Chair
 
 ## General Description
 
