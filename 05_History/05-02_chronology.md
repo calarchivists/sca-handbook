@@ -388,12 +388,21 @@ Administration, Pacific Region
 - 1/21 Webinar, “Liberated Archives for Black Lives,” with presenter Teressa Raiford, Don’t Shoot Portland
 - 1/29 “Doors Wide Open: Advancing Inclusive Access to Special Collections,” Cosponsored by CARL’s Academic Librarians’ Interest Group North (ALIGN) and the Society of California Archivists (SCA)
 - 4/26 Webinar, “What it means to be responsible for climate-related records: Creating and using climate-related archives,” AGM
-- Webinar, “Hands-on with Padlet: Creating a Virtual Interactive Space with Archives for Instruction and Beyond,” AGM
-- Webinar, “Core Concepts of Accessibility in Archives,” AGM
+- 4/26 Webinar, “Hands-on with Padlet: Creating a Virtual Interactive Space with Archives for Instruction and Beyond,” AGM
+- 4/26 Webinar, “Core Concepts of Accessibility in Archives,” AGM
 - 4/27-30 Annual General Meeting [virtual, hosted by Cvent]
 - 7/6-16 Western Archives Institute, online, principal faculty member Joshua Kitchens
 - Jan-Aug First Fridays series of online meetings
 
+## 2022
+- 4/14 Webinar, “8 Strategies To Mitigate Implicit Bias (Right To Be + SCA Part 1),” Presented by Right To Be
+- 5/15 Webinar, “Bystander Intervention in Public Spaces” (Right to Be + SCA Part 2), Presented by Right To Be
+- 5/19-21	Annual General Meeting, Renaissance Palm Springs Hotel, Palm Springs
+- 5/19 “Demystifying Digitization: Planning a Digitization Project from Start to Finish,” Presented by Anne T. Kent California Room Oral History Project at the Marin County Free Library, AGM
+- 5/19 “Preserving and Providing Access to Oral History Collections ,” Presented by California Revealed, AGM
+- 8/18 Webinar, “Disrupting Assumptions: Forging Interdisciplinary Archival Engagement,” Presenters: Julia Tanaka (Occidental College) and Claudia Willet (Stanford University)
+- 9/14 Webinar, “Hacking the Academic Interview: Session 1 (Pre-Interview),” Presenters: T-Kay Sangwand (University of California, Los Angeles), Erika Montenegro (East Los Angeles College), and Azalea Camacho (California State University, Los Angeles)
+- 12/7 Webinar, “Increasing Access: Transforming Physical Archive Inventory into Online Learning Resources,” Presenter: Kaerie Ray (Arnold and Mabel Beckman Foundation)
 ***
 
-_Revision history: 5/89 dsn, 1/92 jab, 5/93 jok, 6/93 bh, 4/94 ppa, 7/95 ppa, 9/03 pw, 1/06 jlm, 4/10 lo, 7/12 tep, 5/14 tep, 4/2016 llc, 01/2017 llc, 06/2017 llc, 06/2018 llc, 04/2019 llc, 05/2019 llc, 01/2022 ck_
+_Revision history: 5/89 dsn, 1/92 jab, 5/93 jok, 6/93 bh, 4/94 ppa, 7/95 ppa, 9/03 pw, 1/06 jlm, 4/10 lo, 7/12 tep, 5/14 tep, 4/2016 llc, 01/2017 llc, 06/2017 llc, 06/2018 llc, 04/2019 llc, 05/2019 llc, 01/2022 ck, 03/23 lm_
