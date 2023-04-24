@@ -135,7 +135,7 @@ In 2015 changes to the California Nonprofit Corporations Code resulted in a chan
 - J. R. K. Kantor (1972-1974)
 - John Donofrio (1974-1976)
 - Edie Hedlin (1976-1978)
-- 
+
 ## Secretary
 - Harold P. Anderson (1978-1979)
 - Sylvia Arden (1979-1981)
