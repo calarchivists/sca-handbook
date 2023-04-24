@@ -1,12 +1,12 @@
 ---
-title: 3-15-7 SCA Treasurer's WAI Role
+title: 3-15-7 WAI: SCA Treasurer's WAI Role
 
 ---
 
-# 3-15-7 SCA Treasurer's WAI Role
+# 3-15-7 WAI: SCA Treasurer's WAI Role
 
 ## General
-_See SCA Handbook, section 2-5_
+The SCA Treasurer is a member of the Western Archives Institute (WAI) Management Committee. The SCA Treasurer is elected by the SCA membership. _See SCA Handbook, section 2-5._
 
 ## WAI Responsibilities
 
