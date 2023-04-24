@@ -1,9 +1,9 @@
 ---
-title: 3-15-2 Management Committee Chair & Executive Secretary
+title: 3-15-2 WAI: Management Committee Chair & Executive Secretary
 
 ---
 
-# 3-15-2 Management Committee Chair & Executive Secretary
+# 3-15-2 WAI: Management Committee Chair & Executive Secretary
 
 ## General Description
 
