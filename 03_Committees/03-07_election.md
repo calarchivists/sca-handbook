@@ -17,10 +17,10 @@ General responsibilities are outlined in Handbook section 3-1.
 
 1. Obtains from the Nominating Committee the slate of candidates and biographical information regarding the candidates.
 2. Makes ballots available to the membership and announces that the election is open via an email to the roster of all current members. Makes candidate statements and biographical sketches available to the membership concurrently with ballots.
-   a. On the ballot, the office of President is not listed as an elective position; the Vice President automatically succeeds the President after one year.
-   b. Ballots shall be distributed, and the election opened, no less than forty-five (45) days and no more than ninety (90) days prior to the annual Members Meeting. Completed ballots are to be submitted, and results reported at least fifteen (15) days prior to the annual Members Meeting. (See Bylaws IV.5.)
-   c. The announcement to the membership should instruct that any difficulty in voting must be reported to the Election Committee as soon as possible. The Election Committee is responsible for assuring that all current members can submit one ballot.
-   d. Ballots will be evaluated for their validity by the Election Committee using the guidelines put forth by Sturgis.
+   - a. On the ballot, the office of President is not listed as an elective position; the Vice President automatically succeeds the President after one year.
+   - b. Ballots shall be distributed, and the election opened, no less than forty-five (45) days and no more than ninety (90) days prior to the annual Members Meeting. Completed ballots are to be submitted, and results reported at least fifteen (15) days prior to the annual Members Meeting. (See Bylaws IV.5.)
+   - c. The announcement to the membership should instruct that any difficulty in voting must be reported to the Election Committee as soon as possible. The Election Committee is responsible for assuring that all current members can submit one ballot.
+   - d. Ballots will be evaluated for their validity by the Election Committee using the guidelines put forth by Sturgis.
 3. On the date that online balloting opens, the Election Committee chair or the chair’s designee, distributes an email to members announcing that the election is open and voting may commence. The email will also indicate the election closing date.
 4. Questions concerning voting issues will be directed to the Election Committee chair.
 5. The Election Committee chair, or the chair’s, designee, will submit a brief message indicating that the officer elections are open to the SCA webperson to be posted on the SCA website/homepage. The EC chair will also request that the same message be shared via other appropriate outlets, such as SCA social media channels.
