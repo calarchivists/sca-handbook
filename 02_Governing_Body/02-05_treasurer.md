@@ -15,10 +15,10 @@ The election procedure and term of office of the Treasurer are described in the 
 
 1. Makes all necessary collections and expenditures for SCA according to established policy.
 2. Keeps complete written records of all financial transactions:
-   a. Maintains accounts for SCA general funds, Education Fund, Mink Scholarship Fund, SCA Speakers Fund, the savings account, and any other special funds.
-   b. Ensures completion of authorized officer signature cards to be filed with each financial institution overseeing SCA funds.
-   c. Reconciles monthly bank statement and check register.
-   d. Performs data backups of computer data on a regular schedule.
+   - a. Maintains accounts for SCA general funds, Education Fund, Mink Scholarship Fund, SCA Speakers Fund, the savings account, and any other special funds.
+   - b. Ensures completion of authorized officer signature cards to be filed with each financial institution overseeing SCA funds.
+   - c. Reconciles monthly bank statement and check register.
+   - d. Performs data backups of computer data on a regular schedule.
 3. Retains all bills, receipts, invoices, and check register, as required by law and as identified on the organization's records retention schedule.
 4. Assists the Board of Directors in preparing the annual budget.
 5. Prepares quarterly statements of conditions for general and special funds, and a quarterly budget report to be presented at Board meetings. Submits copies to the Secretary for inclusion with the minutes.
