@@ -21,7 +21,7 @@ These Guidelines are not binding, and may be modified according to the needs and
 ### Introduction
 
 In order to responsibly use SCA funds for programs and activities that benefit the Membership, each year the Board should budget to expend a percentage of accumulated surplus in the General Fund. The guidelines below are suggested to encourage the Board to identify and spend a percentage of surplus funds as part of the
-annual budget process. The guidelines are not binding, and may be modified according to the needs and financial health of the organization.[^1]
+annual budget process. The guidelines are not binding, and may be modified according to the needs and financial health of the organization.[1]
 
 ### Reserves
 For the General Fund, surplus funds should be defined as those in excess of the minimal Operating Reserve, plus an AGM Reserve sufficient to cover the liability defined in the current hotel contract.
@@ -60,8 +60,7 @@ Expenditures ideally should support activities emphasized in the most recent Str
 
 General Fund expenditure decisions should be made in light of available Restricted Funds each year as well. If the Education Fund is healthy and can support increased educational programming or scholarships, it should be used up to the maximum expenditure of principal permitted before the General Fund is applied to educational programs. Similarly, if the Speakers Fund is healthy or depleted, the General Fund may be spared or tapped to support speaker expenses as appropriate.
 
-[^1]: _If an administrator or clerical assistant is hired, for example, the budget situation will
-change dramatically and the recommended calculations below will not be sufficient._
+1: _If an administrator or clerical assistant is hired, for example, the budget situation will change dramatically and the recommended calculations below will not be sufficient._
 
 ***
 
