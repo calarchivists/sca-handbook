@@ -16,13 +16,13 @@ Composition of the committee and terms of office are defined in Handbook section
 General responsibilities are outlined in Handbook section 3-1.
 
 1. Develops and presents archival education workshops to be sponsored by SCA. The Education Committee is responsible for:
-   a. regional fall programs—one Northern, one Southern
-   b. spring programs—alternating Northern and Southern in the opposite region of the Annual General Meeting (AGM) location
-   c. specialized workshops to be offered as opportunities present themselves or as demand requires
+   - a. regional fall programs—one Northern, one Southern
+   - b. spring programs—alternating Northern and Southern in the opposite region of the Annual General Meeting (AGM) location
+   - c. specialized workshops to be offered as opportunities present themselves or as demand requires
 2. Collaborates with the Program Committee
-   a. The chair or other representative of the Education Committee serves as an _ad hoc_ member of the Program Committee.
-   b. The Vice President/Program Chair serves as an ad hoc member of the Education Committee.
-   c. The Education Committee is responsible for the selection, budgeting and scheduling of pre-conference workshop(s) for the AGM.
+   - a. The chair or other representative of the Education Committee serves as an _ad hoc_ member of the Program Committee.
+   - b. The Vice President/Program Chair serves as an ad hoc member of the Education Committee.
+   - c. The Education Committee is responsible for the selection, budgeting and scheduling of pre-conference workshop(s) for the AGM.
 3. Provides SCA members with information about archival education programs in California.
 4. Maintains a workbook of guidelines and pointers for putting together programs and samples of publicity and forms.
 
