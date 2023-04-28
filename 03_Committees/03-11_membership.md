@@ -17,8 +17,7 @@ General responsibilities are outlined in Handbook section 3-1.
 
 1. Solicits new members among individuals and organizations, and encourages participation by members in the activities of SCA.
 2. Contacts non-renewals to encourage them to renew their memberships. In discussing the advantages of SCA membership, the following points might be made:
-
-   a. Only members are eligible for member registration rates at Annual General Meeting (AGM) and other programs
+   - a. Only members are eligible for member registration rates at Annual General Meeting (AGM) and other programs
 3. Oversees membership surveys to monitor shifts in member interests and concerns when requested by the Board. Findings are reported to the Board and then to the membership via appropriate print or electronic communications. Survey topics are set and approved by the Board. The Membership Committee works with other committees, as needed, to produce, assess, and report survey results.
 4. Assists with the planning of new member events at the Annual General Meeting.
 5. Assists with the management of the online membership database and related projects pertaining to membership as needed.
