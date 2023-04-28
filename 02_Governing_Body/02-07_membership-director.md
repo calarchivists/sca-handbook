@@ -16,8 +16,8 @@ The Membership Director acts as corresponding secretary in matters relating to m
 5. Prepares and distributes membership renewal notices.
 6. Responds to all membership related inquiries in a timely manner.
 7. Maintains the online membership database. Includes the following:
-   a. Exports online membership database into a standardized digital format for long term preservation on July 1st.
-   b. Removes all member profiles that have had a member status of “lapsed” for more than two years from the active online membership database.
+   - a. Exports online membership database into a standardized digital format for long term preservation on July 1st.
+   - b. Removes all member profiles that have had a member status of “lapsed” for more than two years from the active online membership database.
 8. Maintains and updates the membership application as needed.
 9. Maintains and updates new member welcome notifications as needed.
 10. Reports the total number of members in the organization as well as the number of members at each of the membership levels to the Board at scheduled meetings.
