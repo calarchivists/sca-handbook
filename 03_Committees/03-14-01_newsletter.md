@@ -24,29 +24,17 @@ The editor is appointed by the Publications Committee Chair with the approval of
 ## Production Responsibilities
 
 1. Produces the _Newsletter_ quarterly, in accordance with the publication and editorial guidelines and standards set by the Board.
-
-   a. Solicits news items from SCA members, committee chairs, officers, and other relevant parties.
-
-   b. Requests input and editorial direction from the Publications Committee Chair on an as-needed basis. 
-
-   c. Compiles, edits, and designs the _Newsletter_ and arranges for its printing and distribution to members. A graphic artist may be hired to produce the _Newsletter_, at a cost to be approved by the Board.
-
-   d. Solicits advertising from allied organizations and vendors. See related Handbook sections for details on advertising rates and sizes for camera-ready copy.
-
-   e. Includes in each issue of the _Newsletter_:
-
-      i. a calendar of upcoming events of interest to the membership. This calendar should include dates and locations of upcoming SCA Board meetings. 
-
-      ii.	a copyright statement as follows: “Copyright [current year] by the Society of California Archivists. Requests to republish or distribute copyrighted material in the newsletter should be directed to the Chair of SCA’s Publications Committee.”
-
+   - a. Solicits news items from SCA members, committee chairs, officers, and other relevant parties.
+   - b. Requests input and editorial direction from the Publications Committee Chair on an as-needed basis. 
+   - c. Compiles, edits, and designs the _Newsletter_ and arranges for its printing and distribution to members. A graphic artist may be hired to produce the _Newsletter_, at a cost to be approved by the Board.
+   - d. Solicits advertising from allied organizations and vendors. See related Handbook sections for details on advertising rates and sizes for camera-ready copy.
+   - e. Includes in each issue of the _Newsletter_:
+      - i. a calendar of upcoming events of interest to the membership. This calendar should include dates and locations of upcoming SCA Board meetings. 
+      - ii.	a copyright statement as follows: “Copyright [current year] by the Society of California Archivists. Requests to republish or distribute copyrighted material in the newsletter should be directed to the Chair of SCA’s Publications Committee.”
 2. Reports activities to the Publications Committee Chair in anticipation of the Board’s quarterly meetings. An annual budget for the _Newsletter_ as well as a final accounting of the past year’s expenditures and activities should be submitted to the Publications Committee Chair prior to the Board’s Fall meeting. This report will be included in the Publications Committee's annual report.
-
 3. Keeps records of expenses and forwards receipts to the Treasurer for reimbursement.
-
 4. Secures mailing labels from the Membership Chair for each issue as appropriate.
-
 5. Maintains a newsletter exchange with other professional associations to serve as a reference tool for the _Newsletter_ editor. The editor should review other allied organizations’ newsletters for content and format ideas.
-
 6. Sends non-current records, as well as a complete printed set of the past year's newsletters, to the SCA Archives.
 
 ***
