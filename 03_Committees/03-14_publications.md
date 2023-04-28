@@ -25,13 +25,9 @@ General responsibilities are outlined in Handbook section 3-1.
 8. Works with the Outreach and Publicity Committee to advertise SCA publications in all appropriate venues.
 9. Sends copies of all SCA publications, as well as the Committee’s non-current records, to the SCA Archives.
 10.	Handles all requests for permission to republish or distribute SCA publications. Individuals or organizations desiring to reprint articles from the _Newsletter_ or other SCA publications should be asked by the Chair to observe the following requirements:
-
-    a. Secure prior permission from publication editors and original authors
-
-    b. Give credit to SCA as the original publisher and copyright holder
-
-    c. Send two copies of the publication to the Publications Committee Chair for deposit in the SCA Archives
-
+   - a. Secure prior permission from publication editors and original authors
+   - b. Give credit to SCA as the original publisher and copyright holder
+   - c. Send two copies of the publication to the Publications Committee Chair for deposit in the SCA Archives
 11.	Reviews and, as needed, recommends updates to the following sections of the SCA Handbook: 3-13 Publications Committee, 3-13-1 _Newsletter_, 3-13-1-1 Advertisement Rates, and 3-13-1-2 Advertisement Sizes.
 
 ***
