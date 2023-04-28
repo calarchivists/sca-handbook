@@ -14,11 +14,11 @@ According to the Articles of Incorporation, the purpose of the Society of Califo
 3. SCA may provide Affinity Groups meeting time and space at the Annual General Meeting. Non-SCA members will not need to register if they attend only the Affinity Group meeting, but will be required to pay appropriate registration fees if they attend any other function other than the Affinity Group meeting (i.e., sessions and workshops).
 4. When an Affinity Group is formed, notice should be given to the SCA Board of Directors. The Secretary will list groups by name (and dates when known) in this section.
 5. Affinity Groups will be responsible for:
-   a. Their own organization, however formal or informal they choose to be.
-   b. Deciding how to choose their leadership and membership.
-   c. Meetings (other than at the AGM) or activities they may wish to have, deciding their frequency, location, purpose, and content.
-   d. Developing and maintaining group mailing lists and for informing their membership of meetings or activities.
-   e. Conducting all group business, including assessing and handling any fees. Groups must adhere to the stipulations of SCA Articles of Incorporation concerning the 501(c)3 status of a nonprofit public benefit corporation.
+   - a. Their own organization, however formal or informal they choose to be.
+   - b. Deciding how to choose their leadership and membership.
+   - c. Meetings (other than at the AGM) or activities they may wish to have, deciding their frequency, location, purpose, and content.
+   - d. Developing and maintaining group mailing lists and for informing their membership of meetings or activities.
+   - e. Conducting all group business, including assessing and handling any fees. Groups must adhere to the stipulations of SCA Articles of Incorporation concerning the 501(c)3 status of a nonprofit public benefit corporation.
 
 ***
 
