@@ -21,7 +21,7 @@ These Guidelines are not binding, and may be modified according to the needs and
 ### Introduction
 
 In order to responsibly use SCA funds for programs and activities that benefit the Membership, each year the Board should budget to expend a percentage of accumulated surplus in the General Fund. The guidelines below are suggested to encourage the Board to identify and spend a percentage of surplus funds as part of the
-annual budget process. The guidelines are not binding, and may be modified according to the needs and financial health of the organization.<sup>1</sup>
+annual budget process. The guidelines are not binding, and may be modified according to the needs and financial health of the organization.[^1]
 
 ### Reserves
 For the General Fund, surplus funds should be defined as those in excess of the minimal Operating Reserve, plus an AGM Reserve sufficient to cover the liability defined in the current hotel contract.
@@ -53,14 +53,14 @@ Therefore the 2014 budget target should be roughly $11,000 to $17,000 “in the 
 ### Expenditures
 
 Expenditures ideally should support activities emphasized in the most recent Strategic Planning Report, but may support other priorities identified by the Board. For example, based on the four recommendations of the 2013 Strategic Planning Report, the types of expenses that should gradually spend down surplus funds should result in
-a) expanded educational and networking opportunities for members, through regional programming
-b) enhanced or increased educational opportunities
-c) improved communication among the membership and with allied professions and organizations
-d) reduced workload for SCA volunteers that administer programs and activities (most likely through clerical or administrative assistance and/or tools that lead to increased efficiency.)
+   - a) expanded educational and networking opportunities for members, through regional programming
+   - b) enhanced or increased educational opportunities
+   - c) improved communication among the membership and with allied professions and organizations
+   - d) reduced workload for SCA volunteers that administer programs and activities (most likely through clerical or administrative assistance and/or tools that lead to increased efficiency.)
 
 General Fund expenditure decisions should be made in light of available Restricted Funds each year as well. If the Education Fund is healthy and can support increased educational programming or scholarships, it should be used up to the maximum expenditure of principal permitted before the General Fund is applied to educational programs. Similarly, if the Speakers Fund is healthy or depleted, the General Fund may be spared or tapped to support speaker expenses as appropriate.
 
-<sup>1</sup>_If an administrator or clerical assistant is hired, for example, the budget situation will
+[^1]: _If an administrator or clerical assistant is hired, for example, the budget situation will
 change dramatically and the recommended calculations below will not be sufficient._
 
 ***
