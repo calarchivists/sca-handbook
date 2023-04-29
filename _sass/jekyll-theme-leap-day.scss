@@ -133,6 +133,7 @@ a {
   color:#6d5208;
   font-weight:400;
   text-decoration:none;
+  overflow-wrap: break-word; /*enable word-wrapping for long URLs*/
 }
 
 a:link {
