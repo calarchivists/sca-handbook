@@ -20,10 +20,9 @@ Community organizations in California, or SCA members in good standing and not e
    - Individual applicants must submit an application form, a resume or CV, a personal statement (250-500 words in length) describing how the workshop/class fits into their career path and why outside funding is required, and a letter of recommendation from someone familiar with the applicant's goals in the archival profession.
    - Organizations must submit an application form and a brief overview of the organization and the proposed educational event (250-500 words in length) describing how the event fits into their archival mission and why outside funding is required. Following the event, a brief article describing the program should be submitted by the organizers to the SCA Newsletter.
    - _Note: since this award is not tied to a specific event and is available on an ad hoc basis, there is no set application deadline. Applications are considered as-received, and awarded based on the availability of annual funding. If multiple individual applications are received for the same event, or for events in a similar time frame, the Awards Committee will select one or more recipients based on the merits of each application as communicated in the submitted personal statement and letter of recommendation._
-6. _Payment of Scholarship_: Awards are usually made on a reimbursement basis<sup>*</sup>.
+6. _Payment of Scholarship_: Awards are usually made on a reimbursement basis*.
 - Following the educational event, the awardee will submit a completed SCA Expense Form, along with receipts, to the award Awards Committee Chair. The Chair will sign the expense form and will forward the document to the Treasurer for payment.
-<sup>*</sup> When requested, the Chair may approve up-front payments, with supporting receipts
-required at the conclusion of the event.
+- *_When requested, the Chair may approve up-front payments, with supporting receipts required at the conclusion of the event._
 
 ## Awards Committee Responsibilities
 1. Revise website information as needed to keep it current with dates and application information.
