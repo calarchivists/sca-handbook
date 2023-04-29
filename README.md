@@ -2,11 +2,13 @@
 
 The SCA Handbook is intended to be a practical tool outlining the major duties of the officers, Board of Directors, and committees. It provides an up-to-date reference on the Corporation's structure, aims, policies, and procedures.
 
+Contact the SCA Secretary with any questions.
+
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# Header 1: Used for section titles only
+## Header 2: Used for subsection headings only
 ### Header 3
 #### Header 4
 
@@ -32,9 +34,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link text](url) and ![Image text](src)
 
-*** horizontal rule
+*** insert horizontal line
 
 | Table | Heading   | Another  |
 |-------|-----------|----------|
@@ -57,4 +59,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out the GitHub [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact).
