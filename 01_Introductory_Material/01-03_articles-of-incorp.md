@@ -42,6 +42,7 @@ constitute the initial board of directors shall be:
 
 - 11\. In the event of a dissolution of this Corporation or in the event of its failure or inability to carry out the objects and purposes hereinabove set forth, all the business, property and assets of the Corporation shall be distributed to the Society of American Archivists or such other organization of similar purpose as may be selected by the Board of Directors. In no way shall the assets or property of the Corporation, in the event of dissolution, be distributed for any purpose to any member.
 
+
 I hereby declare that I am one of the persons who executed the foregoing Articles of Incorporation, which execution is my act and deed.
 
 Lynn Downey, Immediate Past President
