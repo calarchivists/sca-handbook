@@ -18,6 +18,18 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+1. Numbered
+2. List
+   - a. Nest
+   - b. lettered
+   - c. list
+      - i. Nest
+      - ii. lower-case
+      - iii. Roman numerals 
+3. Then back
+4. to
+5. Numbered List
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
@@ -30,12 +42,14 @@ Syntax highlighted code block
 | Row 2 | Column 1  | Column 2 |
 | Row 3 | Column 1  | Column 2 |
 
-Insert a footnote at the end of this sentence.[^1] Add another footnote[^2] in the middle of this sentence.
-[^1]: Footnote 1 information at the bottom.
-[^2]: Footnote 2 information here.
+Insert a footnote at the end of this sentence.[1] Add another footnote[2] in the middle of this sentence.
+- [1]: Footnote 1 information at the bottom.
+- [2]: Footnote 2 information here.
+Note: This proposed style does not utilize Markdown's linking feature; footnotes written in Markdown appear below the Revision history section.
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Also see the [Markdown Guide](https://www.markdownguide.org/basic-syntax/). 
 
 ### Jekyll Themes
 
