@@ -127,10 +127,6 @@ Scholarships are awarded each year in honor of James V. Mink, long-time archivis
 | 2021 | Gabriele Carey and Catherine Powell |
 | 2022 | Brian Tingle      |
 
-## Lynn A. Bonfield Professional Development Award (established 2018)
-
-| 2019 | Kelsi Evans   |
-
 ## Special Recognition Awards
 
 | 2003 | Metal Edge, Inc. for its continued support for SCA and its programs                          |
