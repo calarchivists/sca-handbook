@@ -9,11 +9,11 @@ title: 1-9-2 Mailing Information
 
 Society of California Archivists
 
-c/o California State Archives
+1050 W. Alameda Ave.
 
-1020 “O” Street
+Mailbox# 126
 
-Sacramento, CA 95814
+Burbank, Ca. 91506
 
 ## General Description and Use
 The address noted above serves as a permanent mailing address for the Society.
@@ -27,9 +27,9 @@ Mail intended for specific officers, Board of Directors members, and committee c
 Registration for workshops, the Annual General Meeting, and other Society events; newsletter submissions; membership renewal notices, ballots; surveys; and similar mailings should be addressed to the responsible Committee chair or designee, not the permanent mailing address.
 
 ## Management of the Permanent Address
-A staff member of the California State Archives (CSA) will manage the permanent address. The CSA staff member serves at the pleasure of the Society’s Board of Directors; therefore the Board needs to be kept informed as to who is serving in this capacity.
+Starting in 2023, the incoming Vice President will manage the permanent address and will continue to manage it when they subsequently serve as President and Past-President. The 2026 incoming Vice President will be the next assigned to manage the permanent address.
 
-SCA reimburses the CSA manager for all expenses incurred in the fulfillment of the responsibilities described below. Expenses include postage, stationery, photocopying, mailing labels, telephone calls, and rubber stamps.
+SCA reimburses the mailing address manager for all expenses incurred in the fulfillment of the responsibilities described below. Expenses include postage, stationery, photocopying, mailing labels, telephone calls, and rubber stamps.
 
 ## Responsibilities
 1. Checks the SCA mail box at least twice a week and acts on the contents in a timely manner. Time dated or urgent materials should be forwarded immediately. Membership forms and publication orders may be accumulated and forwarded weekly. Advertisements, junk mail, and oddities may be forwarded or discarded, at the discretion of the manager. Other mailings are forwarded to SCA officers, directors, committee chairs and/or newsletter editor as appropriate.
