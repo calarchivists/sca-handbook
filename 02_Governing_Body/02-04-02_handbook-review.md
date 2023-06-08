@@ -114,14 +114,14 @@ title: 2-4-2 Handbook Review and Update Assignments
 | 3-14-1 Newsletter                         | Publications Ctte. |
 | 3-14-1-1 Advertising Rates for Newsletter | Publications Ctte. |
 | 3-14-1-2 Advertisement Sizes              | Publications Ctte. |
-| 3-15 Western Archives Institute (WAI)     | WAI Administrator |
-| 3-15-1 WAI Administrator                  | WAI Administrator |
-| 3-15-2 WAI Assistant/Associate Administrator | WAI Administrator |
-| 3-15-3 WAI Joint Management               | WAI Administrator |
-| 3-15-4 WAI On-Site Coordinator            | WAI Administrator |
-| 3-15-5 WAI Sponsor Responsibilities: California State Archives | WAI Administrator |
-| 3-15-6 WAI Sponsor Responsibilities: Society of California Archivists | WAI Administrator |
-| 3-15-7 SCA Treasurer's WAI Role | WAI Administrator |
+| 3-15 Western Archives Institute (WAI)                        | WAI |
+| 3-15-1 Western Archives Institute Management Committee       | WAI |
+| 3-15-2 WAI: Management Committee Chair & Executive Secretary | WAI |
+| 3-15-3 WAI: Administrator & Vice Chair                       | WAI |
+| 3-15-4 WAI: Associate Administrator                          | WAI |
+| 3-15-5 WAI: Program Coordinator                              | WAI |
+| 3-15-6 WAI: Program Subcommittee                             | WAI |
+| 3-15-7 WAI: SCA Treasurer's WAI Role                         | WAI |
 | 3-16 Special Committees and Task Forces   | President |
 
 ## 4 External Relations and Affinity Groups
