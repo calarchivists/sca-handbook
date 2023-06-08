@@ -46,4 +46,4 @@ SCA mailings (e.g. newsletter, workshop announcements, etc.) to foreign destinat
 
 ***
 
-_Revision history: 2/90 nlb, 7/90 nlb, 10/90 nlb, 5/93 bh, 7/95 ppa, 10/05 lo, 6/09 jtm, 01/2018 llc, 02/2018 llc, 05/2019 llc_
+_Revision history: 2/90 nlb, 7/90 nlb, 10/90 nlb, 5/93 bh, 7/95 ppa, 10/05 lo, 6/09 jtm, 01/2018 llc, 02/2018 llc, 05/2019 llc, 6/2023 jb_
