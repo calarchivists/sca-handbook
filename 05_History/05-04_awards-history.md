@@ -62,7 +62,7 @@ Sponsored by Metal Edge, Inc, the Archives Appreciation Award is presented to an
 | 2014 | Mission Inn Foundation                                           |
 | 2015 | Los Angeles County Metropolitan Transit Authority                |
 | 2016 | Computer History Museum                                          |
-| 2017 | Immaculate Heart Community                                       |
+| 2017 | Anita Caspary Archives/Immaculate Heart Community                                      |
 | 2018 | [not awarded]                                                    |
 | 2019 | Los Angeles Archivists Collective                                |
 | 2020 | [not awarded]                                                    |
