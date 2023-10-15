@@ -30,6 +30,7 @@ conference workshops, conference sessions, meals, plenary addresses, and other e
 
 ## During the AGM
 - Staffs the registration desk at the AGM and prepares related materials, including name badges, registration packets, local area information, etc.
+- Posts the SCA Code of Conduct at the AGM.
 - Creates, distributes, and collects evaluation forms at the AGM.
 - Coordinates silent auction/education endowment prizes and event(s) with Development Committee.
 - Acts as liaison with Program Committee and hotel staff to ensure on-site needs are met.
@@ -42,4 +43,4 @@ conference workshops, conference sessions, meals, plenary addresses, and other e
 
 ***
 
-_Revision history: 10/10 jmw, 3/11 lo, 01/2018 llc, 04/2019 llc, 05/2019 llc_
+_Revision history: 10/10 jmw, 3/11 lo, 01/2018 llc, 04/2019 llc, 05/2019 llc, 04/2023 SG_
