@@ -12,17 +12,19 @@ The Secretary maintains the official copy of the SCA Handbook.
 ## Responsibilities
 
 1. Records and acts upon all Handbook changes recommended by the Board.
-2. Maintains an up-to-date electronic file and backup of the Handbook. The SCA website version serves as the master copy of the Handbook.
+2. Maintains an up-to-date electronic file of the Handbook. The SCA GitHub (at https://calarchivists.github.io/sca-handbook) version serves as the master copy of the Handbook.
 3. Provides drafts of changes for Board review as appropriate. Generally these would include new policy statements or major revisions of existing sections. Minor wording and grammatical changes should be made as needed but need NOT be approved by Board.
 4. Submits revised sections to the webmaster with a “what’s new” announcement listing those new or revised sections for posting on the website.
-5. Dates and initials additions and revisions at the bottom of the last page of each section at the time such revisions are made. (See “Footers” in Handbook Procedures Format section).
+5. Dates and initials additions and revisions at the bottom of the last page of each section at the time such revisions are made. (See “3. Revision Information” in the Handbook Style Format section).
 6. Sends a set of obsolete Handbook pages and a set of revised Handbook pages to the SCA archives at the end of the Secretary’s two-year term.
 7. Sends a fully revised, dated and printed double-sided hard copy of the Handbook to the SCA archives in years ending in 0 and 5 (i.e., 2010, 2015, etc.)
 8. Updates the Table of Contents and Handbook Review and Update Assignments sections when additions or deletions of entire procedures are made to the Handbook.
+9. Maintains documentation to support Handbook revision workflows via GitHub; provides instruction to SCA Leadership as needed.
+10. Facilitates account permissions to contribute to the SCA GitHub repository, as related to proposing Handbook revisions.
 
 ## Handbook Style Format
 
-1. PAGE NUMBERS and FOOTERS – Each section of the Handbook has a footer which notes sequential page numbers for that section.
+1. FOOTERS – Each section of the Handbook has a footer which notes sequential Handbook sections.
 2. MARGINS - Top and bottom margins shall be 1" and left and right margins shall be 1"
 3. REVISION INFORMATION – Dates of creation and revision of text, along with lowercase reviser’s initials, shall be left-justified at the bottom of the final page above the footer. Multiple entries shall be separated by commas (i.e., 7/86 rln, 2/98 dt, 9/04 Board).
 4. PARAGRAPHS - Block format shall be used.
@@ -37,4 +39,4 @@ The Secretary maintains the official copy of the SCA Handbook.
 
 ***
 
-_Revision history: 10/90 nlb, 5/91 nlb, 7/91 nlb, 11/91 jab, 7/92 jab, 12/92 jab, 5/93 jab, 4/94 ppa, mpy 1/06, 6/09 jtm, 4/11 jmw, 3/12 tep_
+_Revision history: 10/90 nlb, 5/91 nlb, 7/91 nlb, 11/91 jab, 7/92 jab, 12/92 jab, 5/93 jab, 4/94 ppa, mpy 1/06, 6/09 jtm, 4/11 jmw, 3/12 tep, 10/22 ck_
