@@ -27,7 +27,7 @@ Mail intended for specific officers, Board of Directors members, and committee c
 Registration for workshops, the Annual General Meeting, and other Society events; newsletter submissions; membership renewal notices, ballots; surveys; and similar mailings should be addressed to the responsible Committee chair or designee, not the permanent mailing address.
 
 ## Management of the Permanent Address
-Starting in 2023, the incoming Vice President will manage the permanent address and will continue to manage it when they subsequently serve as President and Past-President. The 2026 incoming Vice President will be the next assigned to manage the permanent address.
+Starting in 2023, the incoming Vice President will manage the permanent address and will continue to manage it when they subsequently serve as President and Past-President. The person in this role will be referred to as the mailing address manager. The 2026 incoming Vice President will be the next assigned to manage the permanent address.
 
 SCA reimburses the mailing address manager for all expenses incurred in the fulfillment of the responsibilities described below. Expenses include postage, stationery, photocopying, mailing labels, telephone calls, and rubber stamps.
 
