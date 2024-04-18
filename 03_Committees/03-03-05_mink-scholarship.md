@@ -7,7 +7,7 @@ title:  3-3-5 James V. Mink Scholarship
 
 ## General Description
 
-This scholarship is awarded each year in honor of James V. Mink, long-time archivist at UCLA and the first President of the Society of California Archivists.
+This scholarship is awarded each year an SCA AGM is held in person. This award is in honor of James V. Mink, long-time archivist at UCLA and the first President of the Society of California Archivists.
 
 The Mink Scholarship promotes the professional development of students preparing to become archivists or archivists who have recently graduated by providing financial support for attendance at the Annual General Meeting and a pre-conference workshop. In some cases, and with approval of the SCA Board, more than one Mink Scholarship may be awarded in a given year.
 
@@ -51,4 +51,4 @@ Each applicant must submit a completed application form, including a letter of r
 
 ***
 
-_Revision history: 5/91, 5/93 jab, 6/93 bh, 6/09 jmw, 3/15 tep, 10/2017 llc, 06/2018 llc_
+_Revision history: 5/91, 5/93 jab, 6/93 bh, 6/09 jmw, 3/15 tep, 10/2017 llc, 06/2018 llc, 04/2024 alp
