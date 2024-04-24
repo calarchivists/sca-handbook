@@ -7,9 +7,9 @@ title: 3-13 Program Committee
 
 ## General Description
 
-The Program Committee plans and presents the Annual General Meeting (AGM) in the spring. Except for joint annual conferences with affiliated organizations, the meetings should alternate between the northern and southern parts of the state. The committee works in coordination with the Local Arrangement Committee.
+The Program Committee plans and presents the Annual General Meeting (AGM) in the spring. Except for joint annual conferences with affiliated organizations, the meetings should alternate between the northern and southern parts of the state. As of 2024, AGMs will alternate between virtual and in-person, as recommended by the AGM Review Task Force. The committee works in coordination with the Local Arrangements Committee (LAC).
 
-Composition of the committee and terms of office are defined in Handbook section 3-1 and governed by the Bylaws. The Program Committee Chair is normally the Vice President, or an individual appointed by the President with the approval of the Board. The Education Chair or representative serves as an _ad hoc_ member of the Program Committee. The Vice President/Program Chair serves as an _ad hoc_ member of the Education Committee.
+Composition of the committee and terms of office are defined in Handbook section 3-1 and governed by the Bylaws. The Program Committee Chair is normally the Vice President, or an individual appointed by the President with the approval of the Board. The Senior Director-at-Large serves as the Vice Chair. The Education Chair or representative serves as an _ad hoc_ member of the Program Committee. The Vice President/Program Chair serves as an _ad hoc_ member of the Education Committee. The Local Arrangements Committee Chair or their designee serves as an _ad hoc_ member of the Program Committee. The Vice President/Program Chair serves as an _ad hoc_ member of the Local Arrangements Committee.
 
 Any precedent-setting decisions to be undertaken by the Program Committee or any subcommittees must be approved by the Board of Directors of SCA.
 
@@ -38,4 +38,4 @@ General responsibilities are outlined in Handbook section 3-1.
 
 ***
 
-_Revision history: 5/93 jok, 6/93 bh, 4/94 ppa, 1/06 jlm, 1/10 lo, 3/12 tep, 7/2016 llc, 10/2017 llc, 09/2018 llc, 04/2019 llc, 05/2021 mh_
+_Revision history: 5/93 jok, 6/93 bh, 4/94 ppa, 1/06 jlm, 1/10 lo, 3/12 tep, 7/2016 llc, 10/2017 llc, 09/2018 llc, 04/2019 llc, 05/2021 mh_, 04/2024 lam
