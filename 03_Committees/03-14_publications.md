@@ -17,7 +17,7 @@ General responsibilities are outlined in Handbook section 3-1.
 
 1. Develops timelines and budgets for all SCA publication-related activities.
 2. Provides quarterly reports detailing the committee’s accomplishments and future plans of action for Board approval.
-3. Oversees editing, production, and distribution of the _SCA Newsletter_ and represents _Newsletter_ interests to the SCA Board. When a _Newsletter_ Editor or Advertising Coordinator position becomes vacant, the Publications Committee Chair initiates a search for a replacement and recommends a potential successor to the Board for review and approval. Should no replacement be available, it is the responsibility of the Publications Committee to ensure the regular and timely appearance of the _Newsletter_.
+3. Oversees editing, production, and distribution of the _SCA Newsletter_ and represents _Newsletter_ interests to the SCA Board. When a _Newsletter_ Editor or Advertising Coordinator position becomes vacant, the Publications Committee Chair initiates a search for a replacement. Should no replacement be available, it is the responsibility of the Publications Committee to ensure the regular and timely appearance of the _Newsletter_.
 4. Represents the interests of the Board in the case of joint publication ventures between SCA and other professional organizations or institutions.
 5. Annually updates SCA’s _Directory of Archival and Manuscript Repositories in California_ and publishes it to the SCA website.
 6. Develops proposals for new publications. Once a new publication is approved by the Board, the Committee supervises its production and distribution.
@@ -32,4 +32,4 @@ General responsibilities are outlined in Handbook section 3-1.
 
 ***
 
-_Revision history: 4/90 nlb, 1/91 nlb, 5/93 jab, 9/04 dgh, 6/09 jtm, 10/2017 llc, 04/2019 llc, 02/2020 mh, 04/2024 am_
+_Revision history: 4/90 nlb, 1/91 nlb, 5/93 jab, 9/04 dgh, 6/09 jtm, 10/2017 llc, 04/2019 llc, 02/2020 mh, 04/2024 am, 05/2024 am_
