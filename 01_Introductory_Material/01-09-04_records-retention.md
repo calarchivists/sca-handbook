@@ -5,7 +5,7 @@ title: 1-9-4 Records Retention Schedule
 
 # 1-9-4 Records Retention Schedule
 
-[Records Retention Schedule](../docs/records-retention-schedule.pdf)
+[Records Retention Schedule](https://drive.google.com/file/d/12Xi3oLiJ9en6N2wnjhI6ziJNWOf1vaKJ/view?usp=sharing)
 
 
 ***
