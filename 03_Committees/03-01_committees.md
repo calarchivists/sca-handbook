@@ -46,6 +46,7 @@ Responsibilities that apply to all standing committees are described here. Those
 4. SCA’s fiscal year is January 1- December 31. In preparation for the Board’s fall budget meeting, chairs provide a proposed budget to the Treasurer (see Handbook 2-5-2 for budget categories). Committee Chairs and members are reimbursed for budgeted expenses incurred in the course of performing committee tasks. These include costs incurred for such activities as photocopying, mailing, and phone calls. SEE ALSO: Reimbursement Policy, Handbook section 2-5-8.
 5. All committee chairs present an oral report of committee activity at the Annual Business Meeting during the Annual General Meeting. Chairs unable to attend shall designate a representative to make this report in their absence.
 6. Committee chairs send non-current records to the Society's archives at the end of their term of service. SEE ALSO Records Retention Schedule, Handbook section 1-8-4 and SCA Archives: Finding Aid, Handbook section 1-8-6.
+7. All SCA members must adhere to the Code of Conduct outlined in section 1-6 of the SCA Handbook. Additionally, Committee Chairs must distribute the Code of Conduct and obtain adherence agreements from third parties involved in SCA business that include, but are not limited to, invited speakers, non-member AGM participants, instructors, and vendors. Committee Chairs are also responsible for assuring that the Code of Conduct is prominently displayed at official SCA gatherings, such as Member Initiated Events, the Annual General Membership meeting, and workshops as well as have print copies readily available at in-person events.
 
 ## Tenure of Appointed Standing Committee Chairs
 
@@ -53,4 +54,4 @@ Appointed committee chairs will serve for three years. Within that three-year pe
 
 ***
 
-_Revision history: 7/86 rln, 5/89 dsn, 10/90 nlb, 5/93 jab, 4/94 ppa, 2/98 lgr, 1/06 jlm, 3/06 Board, 10/10 jmw, 3/12 tep, 6/2015 tep, 10/2017 llc, 01/2019 llc, 04/2019 llc, 05/2020 mh, 08/2020 mh_
+_Revision history: 7/86 rln, 5/89 dsn, 10/90 nlb, 5/93 jab, 4/94 ppa, 2/98 lgr, 1/06 jlm, 3/06 Board, 10/10 jmw, 3/12 tep, 6/2015 tep, 10/2017 llc, 01/2019 llc, 04/2019 llc, 05/2020 mh, 08/2020 mh, 10/2024 nls_
