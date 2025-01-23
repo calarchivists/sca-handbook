@@ -12,7 +12,7 @@ There are two non-officer Directors who represent the membership at large on the
 It is the responsibility of Directors to attend quarterly meetings of Board of Directors and to participate actively in the work of the Society and its committees. Specific duties and responsibilities may be assigned by the President.
 
 The senior Director serves as the Program Committee Vice Chair under the direction of the Program Committee Chair.
-
+The junior Director serves as the Records Retention Coordinator.
 ***
 
-_Revision history: 6/09 jmw, 2/10 Board, 2/23 lm_
+_Revision history: 6/09 jmw, 2/10 Board, 2/23 lm, 1/25 cmd_ 
