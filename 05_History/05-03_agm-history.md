@@ -56,6 +56,9 @@ title: 5-3 Annual General Meeting (AGM) History
 | 2020 | April 22-27 | San Francisco, InterContinental [cancelled due to Covid-19] |
 | 2021 | April 27-30 | Virtual Conference, hosted by Cvent |
 | 2022 | May 19-21   | Palm Springs, Renaissance Palm Springs Hotel |
+| 2023 | April 6-8   | Sacramento, Sheraton Sacramento |
+| 2024 | April 15-19 | Virtual Conference, hosted by Cvent |
+| 2025 | April 2-4   | North Hollywood, The Garland Hotel |
 
 ## March 24-25, 1972: Los Angeles, UCLA Reiber Hall
 _First Annual Meeting and Organizational Meeting_
@@ -1787,7 +1790,47 @@ _Theme: Archives Represent!_
   - Awards Luncheon with Guest Speaker Kim Stringfellow, artist, educator, writer, and independent curator based in Joshua Tree, CA
   - SCA Board Wrap-Up Meeting
  
-
+  ## April 6-8, 2023, Sacramento, Sheraton Sacramento
+ _Theme: History by the People_
+- Thursday:
+  - SCA Board Meeting
+  - Workshop: Intro to VHS transfers: Signal Flow from Analog to Digital with BAVC Media
+  - Tour: California State Archives
+  - Tour: Sacramento Public Library, Sacramento Room
+  - Tour: Old Sacramento Underground
+  - Tour: Capital Museum
+  - Tour: California Is in the Heart exhibit, California Museum
+  - Tour: California State Library, California History Room
+  - Leadership Meeting
+  - Opening Reception, the Elks Tower
+- Friday:
+  - New Member Meet and Greet
+  - Plenary Address: We Are the Land: California Indians and the Making of California, the United States, and the World, by William Bauer
+  - Poster Presentations
+  - Sessions:
+     - Voces del Teatro Oral History Archive
+     - Collaborating to Share “Hidden” History
+     - Meet the California State Archivist
+     - Reparative Description Projects
+     - Digital Case studies
+     - Marin City 80: Resistance of Historical Erasure and Power Imbalance
+  - Brown Bag Lunch Meetings
+     - OAC/Calisphere Contributor Meeting
+     - CSU Archives and Archivists Roundtable
+  - SCA Member Meeting followed by SCA Committee Meetings
+  - BIPOC Mixer
+- Saturday:
+  - Poster Presentations
+  - Sessions:
+    - Your data don’t define me!: Making space for feelings amidst the data dump
+    - Collaborations and partnerships - universities, students, and communities
+    - Preserving the Profession: Advocating for Archivists through Fair Labor Principles
+    - The people’s university: assessing the state of the CSU archives
+    - Community-Centered Archives Practice and the Institution: Transforming Education, Archives, and Community History
+    - Sacramento Archives Crawl: 12 Years of Building Community
+  - Awards Luncheon with Guest Speaker Lorena Márquez, Associate Professor, Chicana/o Studies, UC Davis, and author of "La Gente"
+  - SCA Board Wrap-Up Meeting
+ 
 ***
 
-_Revision history: 5/89 dsn, 2/92jab, 5/93 dmc, 6/93 bh, ses 4/94, ppa 7/95, 6/98 lgr, 6/03 pww, 10/05 lo, 3/2006 board, 8/2008 jtm, 1/10 lo, 7/12 tep, 5/14 tep, 4/2016 llc, 01/2017 llc, 06/2017 llc, 06/2018 llc, 05/2019 llc, 01/2022 ck, 03/23 lm_
+_Revision history: 5/89 dsn, 2/92jab, 5/93 dmc, 6/93 bh, ses 4/94, ppa 7/95, 6/98 lgr, 6/03 pww, 10/05 lo, 3/2006 board, 8/2008 jtm, 1/10 lo, 7/12 tep, 5/14 tep, 4/2016 llc, 01/2017 llc, 06/2017 llc, 06/2018 llc, 05/2019 llc, 01/2022 ck, 03/23 lm_, 04/2025 lam
