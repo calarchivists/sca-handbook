@@ -1830,7 +1830,44 @@ _Theme: Archives Represent!_
     - Sacramento Archives Crawl: 12 Years of Building Community
   - Awards Luncheon with Guest Speaker Lorena Márquez, Associate Professor, Chicana/o Studies, UC Davis, and author of "La Gente"
   - SCA Board Wrap-Up Meeting
- 
+
+## April 12-19, 2024	Virtual Conference
+_Theme: Pivoting: Responding to Changes in the Archives_
+- AGM Pre-Conference, April 12, Friday
+  - Webinars:
+    - Reframing Organizations: Managing Change as You Move Your Organization Forward
+    - Unlocking Learning Landscapes: Leveraging Place in Archival Instructional Programming
+- Monday, April 15:
+  - New Members Meeting
+  - Plenary: Erin Thompson
+  - Sessions
+    - Beyond Efficiency: An impact assessment of the UC Guidelines for Efficient Processing
+    - Make new friends and keep the old: relying on old and new partnerships to finish an overdue grant initiative with grace
+    - Implementing a Trauma-Informed Practice Training Module
+    - Preservation of Video Game Modifications
+    - Something from Nothing: Building a Digital Project with Outside Support
+- Tuesday:
+  - Sessions
+    - "Pardon Our Dust": Managing Archives During Library Renovations
+    - The University Student Employee: Managing student employees in an archives setting
+    - Managing the Transition of Archival Materials from a Community Archives to an Institutional Repository
+    - Lightning Talks
+    - Redirect: Navigating a Major Website Redesign at the UCSF Industry Documents Library
+  - Awards Ceremony
+- Wednesday:
+  - Sessions
+    - Change Management: Navigating Transitions and Every-Day Workloads in Smaller Repositories
+    - Pivoting for Access and Engagement: Leveraging Browser-Based VR in Libraries, Archives, and Museums
+    - Disaster Risk Assessment Virtual Discussion
+    - Archivists AND : Transitioning from and Sharing with Other Responsibilities
+  - Brown bag: OAC/Calisphere Contributor Meeting
+  - SCA Member Meeting
+- Thursday:
+  - SCA Leadership Meeting
+  - SCA Board Meeting
+- Friday:
+  - SCA Board Meeting
+
 ***
 
 _Revision history: 5/89 dsn, 2/92jab, 5/93 dmc, 6/93 bh, ses 4/94, ppa 7/95, 6/98 lgr, 6/03 pww, 10/05 lo, 3/2006 board, 8/2008 jtm, 1/10 lo, 7/12 tep, 5/14 tep, 4/2016 llc, 01/2017 llc, 06/2017 llc, 06/2018 llc, 05/2019 llc, 01/2022 ck, 03/23 lm_, 04/2025 lam
