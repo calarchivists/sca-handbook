@@ -22,11 +22,11 @@ General responsibilities are outlined in Handbook section 3-1.
 5. Plans and supervises the continuing transition of SCA’s _Directory of Archival and Manuscript Repositories in California_ to an online database format, in cooperation with appropriate SCA committees as well as SCA allies and partners.
  - a. Major revisions are assigned a new edition.
  - b. Yearly updates retain the previous edition but are marked as a revision of that year (e.g., 5th Edition, 2024 revision). 
-7. Develops proposals for new publications. Once a new publication is approved by the Board, the Committee supervises its production and distribution.
-8. Explores external funding from appropriate grant agencies (e.g. NHPRC, CCH, etc.) to support publication programs.
-9. Works with the Outreach and Publicity Committee to advertise SCA publications in all appropriate venues.
-10. Sends copies of all SCA publications, as well as the Committee’s non-current records, to the SCA Archives.
-11.	Handles all requests for permission to republish or distribute SCA publications. Individuals or organizations desiring to reprint articles from the _Newsletter_ or other SCA publications should be asked by the Chair to observe the following requirements:
+6. Develops proposals for new publications. Once a new publication is approved by the Board, the Committee supervises its production and distribution.
+7. Explores external funding from appropriate grant agencies (e.g. NHPRC, CCH, etc.) to support publication programs.
+8. Works with the Outreach and Publicity Committee to advertise SCA publications in all appropriate venues.
+9. Sends copies of all SCA publications, as well as the Committee’s non-current records, to the SCA Archives.
+10.	Handles all requests for permission to republish or distribute SCA publications. Individuals or organizations desiring to reprint articles from the _Newsletter_ or other SCA publications should be asked by the Chair to observe the following requirements:
    - a. Secure prior permission from publication editors and original authors
    - b. Give credit to SCA as the original publisher and copyright holder
    - c. Send two copies of the publication to the Publications Committee Chair for deposit in the SCA Archives
@@ -34,4 +34,4 @@ General responsibilities are outlined in Handbook section 3-1.
 
 ***
 
-_Revision history: 4/90 nlb, 1/91 nlb, 5/93 jab, 9/04 dgh, 6/09 jtm, 10/2017 llc, 04/2019 llc, 02/2020 mh_
+_Revision history: 4/90 nlb, 1/91 nlb, 5/93 jab, 9/04 dgh, 6/09 jtm, 10/2017 llc, 04/2019 llc, 02/2020 mh_, 04/2025 sms
