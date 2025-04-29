@@ -17,7 +17,7 @@ General responsibilities are outlined in Handbook section 3-1.
 
 1. Develops timelines and budgets for all SCA publication-related activities.
 2. Provides quarterly reports detailing the committee’s accomplishments and future plans of action for Board approval.
-3. Oversees editing, production, and distribution of the _SCA Newsletter_ and represents _Newsletter_ interests to the SCA Board. When the _Newsletter_ Editor position becomes vacant, the Publications Committee Chair initiates a search for a replacement Editor and recommends a potential successor to the Board for review and approval. Should no replacement be available, it is the responsibility of the Publications Committee to ensure the regular and timely appearance of the _Newsletter_.
+3. Oversees editing, production, and distribution of the _SCA Newsletter_ and represents _Newsletter_ interests to the SCA Board. When a _Newsletter_ Editor or Advertising Coordinator position becomes vacant, the Publications Committee Chair initiates a search for a replacement. Should no replacement be available, it is the responsibility of the Publications Committee to ensure the regular and timely appearance of the _Newsletter_.
 4. Represents the interests of the Board in the case of joint publication ventures between SCA and other professional organizations or institutions.
 5. Plans and supervises the continuing transition of SCA’s _Directory of Archival and Manuscript Repositories in California_ to an online database format, in cooperation with appropriate SCA committees as well as SCA allies and partners.
  - a. Major revisions are assigned a new edition.
@@ -30,8 +30,9 @@ General responsibilities are outlined in Handbook section 3-1.
    - a. Secure prior permission from publication editors and original authors
    - b. Give credit to SCA as the original publisher and copyright holder
    - c. Send two copies of the publication to the Publications Committee Chair for deposit in the SCA Archives
-11.	Reviews and, as needed, recommends updates to the following sections of the SCA Handbook: 3-13 Publications Committee, 3-13-1 _Newsletter_, 3-13-1-1 Advertisement Rates, and 3-13-1-2 Advertisement Sizes.
+11.	Reviews and, as needed, recommends updates to the following sections of the SCA Handbook: 3-14 Publications Committee, 3-14-1 _Newsletter_, 3-14-1-1 Advertisement Rates, and 3-14-1-2 Advertisement Sizes.
 
 ***
+
 
 _Revision history: 4/90 nlb, 1/91 nlb, 5/93 jab, 9/04 dgh, 6/09 jtm, 10/2017 llc, 04/2019 llc, 02/2020 mh, 04/2024 am, 05/2024 am, 04/2025 sms_

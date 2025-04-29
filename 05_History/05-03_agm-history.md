@@ -56,6 +56,9 @@ title: 5-3 Annual General Meeting (AGM) History
 | 2020 | April 22-27 | San Francisco, InterContinental [cancelled due to Covid-19] |
 | 2021 | April 27-30 | Virtual Conference, hosted by Cvent |
 | 2022 | May 19-21   | Palm Springs, Renaissance Palm Springs Hotel |
+| 2023 | April 6-8   | Sacramento, Sheraton Sacramento |
+| 2024 | April 15-19 | Virtual Conference, hosted by Cvent |
+| 2025 | April 2-4   | North Hollywood, The Garland Hotel |
 
 ## March 24-25, 1972: Los Angeles, UCLA Reiber Hall
 _First Annual Meeting and Organizational Meeting_
@@ -1787,7 +1790,84 @@ _Theme: Archives Represent!_
   - Awards Luncheon with Guest Speaker Kim Stringfellow, artist, educator, writer, and independent curator based in Joshua Tree, CA
   - SCA Board Wrap-Up Meeting
  
+  ## April 6-8, 2023, Sacramento, Sheraton Sacramento
+ _Theme: History by the People_
+- Thursday:
+  - SCA Board Meeting
+  - Workshop: Intro to VHS transfers: Signal Flow from Analog to Digital with BAVC Media
+  - Tour: California State Archives
+  - Tour: Sacramento Public Library, Sacramento Room
+  - Tour: Old Sacramento Underground
+  - Tour: Capital Museum
+  - Tour: California Is in the Heart exhibit, California Museum
+  - Tour: California State Library, California History Room
+  - Leadership Meeting
+  - Opening Reception, the Elks Tower
+- Friday:
+  - New Member Meet and Greet
+  - Plenary Address: We Are the Land: California Indians and the Making of California, the United States, and the World, by William Bauer
+  - Poster Presentations
+  - Sessions:
+     - Voces del Teatro Oral History Archive
+     - Collaborating to Share “Hidden” History
+     - Meet the California State Archivist
+     - Reparative Description Projects
+     - Digital Case studies
+     - Marin City 80: Resistance of Historical Erasure and Power Imbalance
+  - Brown Bag Lunch Meetings
+     - OAC/Calisphere Contributor Meeting
+     - CSU Archives and Archivists Roundtable
+  - SCA Member Meeting followed by SCA Committee Meetings
+  - BIPOC Mixer
+- Saturday:
+  - Poster Presentations
+  - Sessions:
+    - Your data don’t define me!: Making space for feelings amidst the data dump
+    - Collaborations and partnerships - universities, students, and communities
+    - Preserving the Profession: Advocating for Archivists through Fair Labor Principles
+    - The people’s university: assessing the state of the CSU archives
+    - Community-Centered Archives Practice and the Institution: Transforming Education, Archives, and Community History
+    - Sacramento Archives Crawl: 12 Years of Building Community
+  - Awards Luncheon with Guest Speaker Lorena Márquez, Associate Professor, Chicana/o Studies, UC Davis, and author of "La Gente"
+  - SCA Board Wrap-Up Meeting
+
+## April 12-19, 2024	Virtual Conference
+_Theme: Pivoting: Responding to Changes in the Archives_
+- AGM Pre-Conference, April 12, Friday
+  - Webinars:
+    - Reframing Organizations: Managing Change as You Move Your Organization Forward
+    - Unlocking Learning Landscapes: Leveraging Place in Archival Instructional Programming
+- Monday, April 15:
+  - New Members Meeting
+  - Plenary: Erin Thompson
+  - Sessions
+    - Beyond Efficiency: An impact assessment of the UC Guidelines for Efficient Processing
+    - Make new friends and keep the old: relying on old and new partnerships to finish an overdue grant initiative with grace
+    - Implementing a Trauma-Informed Practice Training Module
+    - Preservation of Video Game Modifications
+    - Something from Nothing: Building a Digital Project with Outside Support
+- Tuesday:
+  - Sessions
+    - "Pardon Our Dust": Managing Archives During Library Renovations
+    - The University Student Employee: Managing student employees in an archives setting
+    - Managing the Transition of Archival Materials from a Community Archives to an Institutional Repository
+    - Lightning Talks
+    - Redirect: Navigating a Major Website Redesign at the UCSF Industry Documents Library
+  - Awards Ceremony
+- Wednesday:
+  - Sessions
+    - Change Management: Navigating Transitions and Every-Day Workloads in Smaller Repositories
+    - Pivoting for Access and Engagement: Leveraging Browser-Based VR in Libraries, Archives, and Museums
+    - Disaster Risk Assessment Virtual Discussion
+    - Archivists AND : Transitioning from and Sharing with Other Responsibilities
+  - Brown bag: OAC/Calisphere Contributor Meeting
+  - SCA Member Meeting
+- Thursday:
+  - SCA Leadership Meeting
+  - SCA Board Meeting
+- Friday:
+  - SCA Board Meeting
 
 ***
 
-_Revision history: 5/89 dsn, 2/92jab, 5/93 dmc, 6/93 bh, ses 4/94, ppa 7/95, 6/98 lgr, 6/03 pww, 10/05 lo, 3/2006 board, 8/2008 jtm, 1/10 lo, 7/12 tep, 5/14 tep, 4/2016 llc, 01/2017 llc, 06/2017 llc, 06/2018 llc, 05/2019 llc, 01/2022 ck, 03/23 lm_
+_Revision history: 5/89 dsn, 2/92jab, 5/93 dmc, 6/93 bh, ses 4/94, ppa 7/95, 6/98 lgr, 6/03 pww, 10/05 lo, 3/2006 board, 8/2008 jtm, 1/10 lo, 7/12 tep, 5/14 tep, 4/2016 llc, 01/2017 llc, 06/2017 llc, 06/2018 llc, 05/2019 llc, 01/2022 ck, 03/23 lm_, 04/2025 lam
