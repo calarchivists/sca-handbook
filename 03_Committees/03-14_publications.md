@@ -19,7 +19,9 @@ General responsibilities are outlined in Handbook section 3-1.
 2. Provides quarterly reports detailing the committee’s accomplishments and future plans of action for Board approval.
 3. Oversees editing, production, and distribution of the _SCA Newsletter_ and represents _Newsletter_ interests to the SCA Board. When a _Newsletter_ Editor or Advertising Coordinator position becomes vacant, the Publications Committee Chair initiates a search for a replacement. Should no replacement be available, it is the responsibility of the Publications Committee to ensure the regular and timely appearance of the _Newsletter_.
 4. Represents the interests of the Board in the case of joint publication ventures between SCA and other professional organizations or institutions.
-5. Annually updates SCA’s _Directory of Archival and Manuscript Repositories in California_ and publishes it to the SCA website.
+5. Plans and supervises the continuing transition of SCA’s _Directory of Archival and Manuscript Repositories in California_ to an online database format, in cooperation with appropriate SCA committees as well as SCA allies and partners.
+ - a. Major revisions are assigned a new edition.
+ - b. Yearly updates retain the previous edition but are marked as a revision of that year (e.g., 5th Edition, 2024 revision). 
 6. Develops proposals for new publications. Once a new publication is approved by the Board, the Committee supervises its production and distribution.
 7. Explores external funding from appropriate grant agencies (e.g. NHPRC, CCH, etc.) to support publication programs.
 8. Works with the Outreach and Publicity Committee to advertise SCA publications in all appropriate venues.
@@ -32,4 +34,5 @@ General responsibilities are outlined in Handbook section 3-1.
 
 ***
 
-_Revision history: 4/90 nlb, 1/91 nlb, 5/93 jab, 9/04 dgh, 6/09 jtm, 10/2017 llc, 04/2019 llc, 02/2020 mh, 04/2024 am, 05/2024 am_
+
+_Revision history: 4/90 nlb, 1/91 nlb, 5/93 jab, 9/04 dgh, 6/09 jtm, 10/2017 llc, 04/2019 llc, 02/2020 mh, 04/2024 am, 05/2024 am, 04/2025 sms_
