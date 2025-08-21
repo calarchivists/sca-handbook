@@ -24,6 +24,8 @@ Board members are reimbursed for travel and lodging (meals excluded) to quarterl
 
 Committee chairs and members are reimbursed for budgeted expenses used in the course of performing committee tasks.
 
+AGM speakers will be reimbursed for conference travel expenses (transportation and hotel, when applicable) and meals that are included in the program. They will not be reimbursed for conference registration.
+
 In the event that a scheduled meeting (Board, task force, committee) ends two hours prior to its originally scheduled time, SCA will pay up to $50.00 of the cost of changing travel arrangements. Should a meeting run past its scheduled time, thereby causing a change in travel plans, SCA will reimburse the entire fee incurred. SCA requests that the most economical means of transportation are obtained and that the arrival/departure times are planned to accommodate the scheduled meeting times.
 
 Mileage reimbursement will conform to the IRS tax code.
