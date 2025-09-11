@@ -40,6 +40,10 @@ Sustained Service Awards are given to recognize service to the Society of Califo
 | 2019                                   | David Keller             |
 | 2020                                   | [not awarded]            |
 | 2021                                   | Ellen Jarosz             |
+| 2022                                   | Eric Milenkiewicz        |
+| 2023                                   | [not awarded]            |
+| 2024                                   | Tanya M. Hollis          |
+| 2025                                   | Leilani Marshall         |
 
 ## Archives Appreciation Award
 Sponsored by Metal Edge, Inc, the Archives Appreciation Award is presented to an agency, organization, or institution which has provided support for archival programs. This includes both processing and reference programs as well as exhibit presentations. However, agencies, organizations or institutions with in-house archival programs must show support of these programs.
@@ -66,6 +70,10 @@ Sponsored by Metal Edge, Inc, the Archives Appreciation Award is presented to an
 | 2019 | Los Angeles Archivists Collective                                |
 | 2020 | [not awarded]                                                    |
 | 2021 | L.A. as Subject                                                  |
+| 2022 | Anaheim Public Library and Heritage Center                       |
+| 2023 | California Revealed                                              |
+| 2024 | Orange County & Southeast Asian Archive Center                   |
+| 2025 | [not awarded]                                                    |
 
 ## James V. Mink Scholarship Award
 Scholarships are awarded each year in honor of James V. Mink, long-time archivist at UCLA and the first President of the Society of California Archivists. The Mink Scholarship promotes the professional development of students preparing to become archivists or archivists who have recently graduated by providing support for attendance at the AGM and a pre-conference workshop.
@@ -107,6 +115,11 @@ Scholarships are awarded each year in honor of James V. Mink, long-time archivis
 | 2019 | Ashley Evans Bandy                |
 | 2020 | Jiarui Sun                        |
 | 2021 | Grace Muñoz                       |
+| 2022 | Dieter Mackenbach                 |
+| 2022 | Brock Stuessi                     |
+| 2023 | [not awarded]                     |
+| 2024 | [not awarded]                     |
+| 2025 | Esperanza Bey                     |
 
 ## Career Achievement Award (established 2011)
 
@@ -121,10 +134,14 @@ Scholarships are awarded each year in honor of James V. Mink, long-time archivis
 | 2019 | Jim Hofer         |
 | 2020 | [not awarded]     |
 | 2021 | Gabriele Carey and Catherine Powell |
+| 2022 | Brian Tingle      |
+| 2023 | Nancy Zimmelman Lenoil |
+| 2024 | [not awarded]     |
+| 2025 | James Eason       |
 
 ## Lynn A. Bonfield Professional Development Award (established 2018)
 
-| 2019 | Kelsi Evans   |
+| 2019 | Kelsi Evans       |
 
 ## Special Recognition Awards
 
@@ -135,7 +152,8 @@ Scholarships are awarded each year in honor of James V. Mink, long-time archivis
 | 2016 | Katie Richardson, for distinguished service as Education Committee Co-chair                  |
 | 2017 | Chuck Wilson, for distinguished service as Awards Committee Chair                            |
 | 2017 | David Keller, for distinguished service as Government Affairs Committee Chair                |
+| 2025 | Frances Kaplan, for distinguished service at the California Historical Society               |
 
 ***
 
-_Revision history: 1/10 lo, 3/11 lo, 7/12 tep, 5/14 tep, 01/2017 llc, 06/2017 llc, 05/2019 llc, 01/2022 ck_
+_Revision history: 1/10 lo, 3/11 lo, 7/12 tep, 5/14 tep, 01/2017 llc, 06/2017 llc, 05/2019 llc, 01/2022 ck, 09/2025 ck_
