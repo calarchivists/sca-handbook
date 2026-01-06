@@ -172,7 +172,12 @@ retention, and for the task force to suggest ways SCA can better advocate for it
 - Charge: This special committee is tasked with examining the future of SCA’s Annual General Meeting and recommending changes to the current model in order to ensure the long-term sustainability of the meeting.
 - Chairs: Tanya Hollis and Teresa Mora
 
+## Strategic Planning Task Force
+- Term of Service: 2023-2025
+- Charge: This special committee was tasked with learning more about the needs and wants of membership by developing and distributing a comprehensive member survey that will be used to prioritize future directions for SCA.
+- Chairs: Alix Norton and Leilani Marshall
+- 
 ***
 
-_Revision history: 5/93 jab, 4/94 ppa, 7/95 ppa, 3/10 lo, 01/2017 llc, 06/2018 llc, 04/2019 llc, 05/2019 llc, 01/2022 ck, 03/23 lm_
+_Revision history: 5/93 jab, 4/94 ppa, 7/95 ppa, 3/10 lo, 01/2017 llc, 06/2018 llc, 04/2019 llc, 05/2019 llc, 01/2022 ck, 03/23 lm, 09/25 nls_
 
