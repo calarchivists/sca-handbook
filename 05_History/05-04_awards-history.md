@@ -44,7 +44,7 @@ Sustained Service Awards are given to recognize service to the Society of Califo
 | 2023                                   | [not awarded]            |
 | 2024                                   | Tanya M. Hollis          |
 | 2025                                   | Leilani Marshall         |
-
+| 2026                                   | [not awarded]            |
 ## Archives Appreciation Award
 Sponsored by Metal Edge, Inc, the Archives Appreciation Award is presented to an agency, organization, or institution which has provided support for archival programs. This includes both processing and reference programs as well as exhibit presentations. However, agencies, organizations or institutions with in-house archival programs must show support of these programs.
 
@@ -74,6 +74,7 @@ Sponsored by Metal Edge, Inc, the Archives Appreciation Award is presented to an
 | 2023 | California Revealed                                              |
 | 2024 | Orange County & Southeast Asian Archive Center                   |
 | 2025 | [not awarded]                                                    |
+| 2026 | Chroma Diverse                                                   |
 
 ## James V. Mink Scholarship Award
 Scholarships are awarded each year in honor of James V. Mink, long-time archivist at UCLA and the first President of the Society of California Archivists. The Mink Scholarship promotes the professional development of students preparing to become archivists or archivists who have recently graduated by providing support for attendance at the AGM and a pre-conference workshop.
@@ -120,6 +121,7 @@ Scholarships are awarded each year in honor of James V. Mink, long-time archivis
 | 2023 | [not awarded]                     |
 | 2024 | [not awarded]                     |
 | 2025 | Esperanza Bey                     |
+| 2026 | [not awarded]                     |
 
 ## Career Achievement Award (established 2011)
 
@@ -138,6 +140,7 @@ Scholarships are awarded each year in honor of James V. Mink, long-time archivis
 | 2023 | Nancy Zimmelman Lenoil |
 | 2024 | [not awarded]     |
 | 2025 | James Eason       |
+| 2026 | [not awarded]     |
 
 ## Special Recognition Awards
 
@@ -152,4 +155,4 @@ Scholarships are awarded each year in honor of James V. Mink, long-time archivis
 
 ***
 
-_Revision history: 1/10 lo, 3/11 lo, 7/12 tep, 5/14 tep, 01/2017 llc, 06/2017 llc, 05/2019 llc, 01/2022 ck, 03/23 lm, 01/2024 jb, 09/2025 ck_
+_Revision history: 1/10 lo, 3/11 lo, 7/12 tep, 5/14 tep, 01/2017 llc, 06/2017 llc, 05/2019 llc, 01/2022 ck, 03/23 lm, 01/2024 jb, 09/2025 ck, 05/26 nls_
