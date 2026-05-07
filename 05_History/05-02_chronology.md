@@ -403,6 +403,28 @@ Administration, Pacific Region
 - 8/18 Webinar, “Disrupting Assumptions: Forging Interdisciplinary Archival Engagement,” Presenters: Julia Tanaka (Occidental College) and Claudia Willet (Stanford University)
 - 9/14 Webinar, “Hacking the Academic Interview: Session 1 (Pre-Interview),” Presenters: T-Kay Sangwand (University of California, Los Angeles), Erika Montenegro (East Los Angeles College), and Azalea Camacho (California State University, Los Angeles)
 - 12/7 Webinar, “Increasing Access: Transforming Physical Archive Inventory into Online Learning Resources,” Presenter: Kaerie Ray (Arnold and Mabel Beckman Foundation)
+
+## 2023
+- 1/26 Webinar, “Role of Archival Partnerships in Documenting Past and Present”
+- 2/23 Webinar, “Hacking the Academic Interview Session 2: Day of the interview”
+- 4/6-4/8 Annual General Meeting, Sheraton Grand Hotel, Sacramento
+- 4/6 Workshop, “Intro to VHS transfers: Signal Flow from Analog to Digital with BAVC Media,” AGM
+
+## 2024
+- 3/28 Webinar, “Planning and Managing for Digital Projects in Libraries and Archives”
+- 4/12 Workshop, “Re-framing Organizations: Managing Change as You Move Your Organization Forward,” AGM
+- 4/12 Workshop, “Unlocking Learning Landscapes: Leveraging Place in Archival Instructional Programming,” AGM
+- 4/15-4/17 Annual General Meeting, Virtual
+- 12/9 Webinar, “Anti-Ableism Training with Annie Roos”
+
+
+## 2025
+- 3/27 Webinar, “Community Roundtable: Presenting at SCA”
+- 4/2-4/4 Annual General Meeting, The Garland Hotel, North Hollywood
+- 4/2 Workshop, “Demystifying Digitization: Planning a Digitization Project from Start to Finish,” AGM
+- 8/21 Webinar, “Promoting Archival Work Through Advocacy and Outreach”
+- 12/10 Webinar, “Not Like Other Collections: Processing Congressional Papers”
+- Aug-Dec First Fridays series of online meetings
 ***
 
-_Revision history: 5/89 dsn, 1/92 jab, 5/93 jok, 6/93 bh, 4/94 ppa, 7/95 ppa, 9/03 pw, 1/06 jlm, 4/10 lo, 7/12 tep, 5/14 tep, 4/2016 llc, 01/2017 llc, 06/2017 llc, 06/2018 llc, 04/2019 llc, 05/2019 llc, 01/2022 ck, 03/23 lm_
+_Revision history: 5/89 dsn, 1/92 jab, 5/93 jok, 6/93 bh, 4/94 ppa, 7/95 ppa, 9/03 pw, 1/06 jlm, 4/10 lo, 7/12 tep, 5/14 tep, 4/2016 llc, 01/2017 llc, 06/2017 llc, 06/2018 llc, 04/2019 llc, 05/2019 llc, 01/2022 ck, 03/23 lm, 05/26 nls_
