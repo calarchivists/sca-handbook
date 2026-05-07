@@ -57,8 +57,10 @@ title: 5-3 Annual General Meeting (AGM) History
 | 2021 | April 27-30 | Virtual Conference, hosted by Cvent |
 | 2022 | May 19-21   | Palm Springs, Renaissance Palm Springs Hotel |
 | 2023 | April 6-8   | Sacramento, Sheraton Sacramento |
-| 2024 | April 15-19 | Virtual Conference, hosted by Cvent |
+| 2024 | April 15-19 | Virtual Conference, Zoom |
 | 2025 | April 2-4   | North Hollywood, The Garland Hotel |
+| 2026 | April 15-16 | Virtual Conference, Zoom |
+
 
 ## March 24-25, 1972: Los Angeles, UCLA Reiber Hall
 _First Annual Meeting and Organizational Meeting_
@@ -1868,6 +1870,86 @@ _Theme: Pivoting: Responding to Changes in the Archives_
 - Friday:
   - SCA Board Meeting
 
+## April 2-4, 2025, North Hollywood, The Garland Hotel
+_Theme: The Future of Memory: Archival Innovation and Sustainability_
+- Wednesday, April 2
+  - Board Meeting
+  - Workshop: Demystifying Digitization: Planning a Digitization Project from Start to Finish
+  - Tour: Autry Resources Center
+  - Tour: Burbank Historical Society
+  - Tour: Disney Archives
+  - Tour: NBCUniversal
+  - Tour: Warner Bros. Corporate Archives
+  - From Drives to Archives: Records management working meeting (committee chairs)
+  - Leadership Meeting
+  - Opening Reception
+- Thursday, April 3
+  - New Member Meet and Greet
+  - Plenary address: Peter Sachs Collopy, _The Revolution Will Be Videotaped: The New Media of the Past in Archives and Beyond_
+  - Sessions
+    - Poster session
+    -  Strength in Solidarity: Collaborating Across Systems to Expand Access to Labor History Sources
+    -  This is how we do it: Two Perspectives on Bridging Community Archiving and the University
+    -  Lightning round:
+      - Digitizing 90,000+ Political Posters from Around the World: How Center for the Study of Political Graphics Designed an In-House Digitization Studio
+      - Breathing Life into a Psychoanalytic Archive
+      - Map that Movie: Using Maps as Tools for Social Media Engagement
+      - From Ofrendas to Archives: Lessons from Día de los Muertos for Sustainable Memory-Keeping
+    - Unlocking SCA’s Future: Member Insights & Strategic Vision
+    - Sustainable Support: The L.A. as Subject Archives At Risk Committee
+    - We Have an Archivist? Education, Outreach, and Advocacy in Remote or Hybrid Workplaces
+  - Brown Bag lunch meetings
+    - OAC/Calisphere Contributors
+    - CSU Archives & Archivists Roundtable
+  - SCA Member meeting followed by Committee Meetings
+  - BIPOC Mixer
+  - Gourmet Night
+- Friday, April 4
+  - Sessions
+    - Get Your Game On: Accessioning Best Practices Bingo!
+    - Time is Elastic: Memories Preserved in the Public Library
+    - University Mascots as Windows to the Archive: Representation, Decolonization, and Justice to Form a Campus Identity
+    - Archiving the ‘Hood in Community
+    - To Collect or Not to Collect: Archival Debt and Implications for 21st Century Collecting
+    - Protecting Collections, History, and Communities
+    - Release Valve 1: Decompression Session in the Archives
+    - Release Valve 2: Salvage and Memory: Sharing Our Expertise with Communities in Need Through Zine Making
+  - Awards Luncheon: Mala Munoz x Diosa Femme, Locatora Radio
+  - Board Meeting
+ 
+## April 15-17, 2026, Virtual Conference
+_Theme:     Shifting Ground: Preserving Memory Amid Upheaval_
+- Wednesday, April 15
+  - New Member Meet and Greet
+  - Plenary address: Dominique Luster, _Presence, Absence, and the Construct[ion] of Power_
+  - Sessions
+    - Archives Out and About: Exploring Non-Traditional Avenues for Community Engagement
+    - The Fellowship of the Grant: The Art of Collaborative Grant Writing
+    - Counter Storytelling Amid Political Upheaval
+  - Brown Bag: OAC/Calisphere Contributor Meeting
+  - Members meeting followed by Committee meetings
+- Thursday, April 16
+  - Sessions
+    - Sustaining Relational Archives: Collaboration and Care in the MARKINGS/HUELLAS Oral History & Public Art Initiative
+    - It’s Not *JUST* a Backlog: Converting legacy and ad-hoc administrative practices into a sustainable and resilient organizational system for Oxy’s Special Collections and College Archives
+    - Pixels to Purpose: Streamlining Metadata Management for Born-Digital Photographic Collections
+    - Unearthing the Chicano Movement (in San Diego): A talking circle on encountering and cultivating hope in archival work during times of social Upheaval
+    - Lightning Round
+      - Free Speech, Forever: Students Commemorating Campus Activism Through Public History and Archival Research
+      - I’m not a Digital Archivist, but…: Adventures in Processing and Making Available the Emails of Donna Haraway
+      - From Outreach to Instruction: Mapping to the Curriculum (MttC)
+      - Color Film Emergency Project: Advancing an Image Preservation Consortium
+      - Community Archives in Context: Locating the Place of Community Archives in Archival Practice in Southern California
+  - SCA Awards
+  - Call to Service: Demystifying SCA Leadership
+- Friday, April 17
+  - Sessions
+    - The Costo Baskets Project: Reconnecting & Rectifying Records of Indigenous Baskets
+    - Los Charros: Changing Landscapes and Preserving Cultural Memories
+    - Archival Watch Party! Latinx Home Movies as Sites of Joy and Solidarity
+    - Accountability in Practice: Evaluating the Role of the SCA Code of Conduct
+  - Brown Bag: Communities of Practice
+  - Board Meeting
 ***
 
-_Revision history: 5/89 dsn, 2/92jab, 5/93 dmc, 6/93 bh, ses 4/94, ppa 7/95, 6/98 lgr, 6/03 pww, 10/05 lo, 3/2006 board, 8/2008 jtm, 1/10 lo, 7/12 tep, 5/14 tep, 4/2016 llc, 01/2017 llc, 06/2017 llc, 06/2018 llc, 05/2019 llc, 01/2022 ck, 03/23 lm_, 04/2025 lam
+_Revision history: 5/89 dsn, 2/92jab, 5/93 dmc, 6/93 bh, ses 4/94, ppa 7/95, 6/98 lgr, 6/03 pww, 10/05 lo, 3/2006 board, 8/2008 jtm, 1/10 lo, 7/12 tep, 5/14 tep, 4/2016 llc, 01/2017 llc, 06/2017 llc, 06/2018 llc, 05/2019 llc, 01/2022 ck, 03/23 lm, 04/2025 lam, 05/26 nls_
