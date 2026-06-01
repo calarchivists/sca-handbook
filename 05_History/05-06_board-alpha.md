@@ -14,8 +14,10 @@ title: 5-6 Board of Directors: Alphabetical List
 
 - Bailey, Mary Ellen: Council 1980-1982
 - Bailey, Sydney: Membership 1997-1999
+- Baldivia, Stefani: Board 2023-2025
 - Bantin, Phil C.: Council 1989-1991 (resigned)
 - Bauer, Brad: President 2011-2012, VP 2010-2011
+- Black, Joanna: Secretary 2023-2027 (two terms)
 - Blesse, Robert E.: President 1987-1988, VP 1986-1987, Council 1985-1987
 - Boom, Terry: Membership 1999-2001
 - Bouché, Nicole L.: Council 1989-1991
@@ -26,7 +28,9 @@ title: 5-6 Board of Directors: Alphabetical List
 
 - Cahoon, John: President 1985-1986, VP 1984-1985, Treasurer 1978-1982 (two terms)
 - Caiger, Anne: President 1979-1980, VP 1978-1979, Council 1975-1977
+- Camacho, Azalea: VP 2025-2026
 - Carey, Gabriele: Board 2009-2011, Membership 2007-2009, Council 1988-1990
+- Castillo, Stella: Board 2025-2027
 - Chandler, Robin: President 2001-2002, VP 2000-2001, Board 1997-1999
 - Cifra, Kathleen: Council 1977-1979
 - Colston, Stephen: Council 1979-1981
@@ -35,6 +39,7 @@ title: 5-6 Board of Directors: Alphabetical List
 
 - Davis, William N.: Ad Hoc Steering Committee 1971
 - Day, Deborah: Secretary 1995-1997
+- DelaCuadra, Charla: Board 2024-2026
 - Donofrio, John: Secretary/Treasurer 1974-1976
 - Donovan, Lynn B.: Council 1973-1975, Chair, Steering Committee 1971; Ad Hoc Steering Committee 1971
 - Downey, Lynn: President 1995-1996, VP (appointed to fill Hooks term) 1994-1995, Board (resigned/appointed to VP)
@@ -48,6 +53,7 @@ title: 5-6 Board of Directors: Alphabetical List
 - Furnier, Mallory: Board 2022-2024
 
 - Galvin, Edward L.: Board 1993-1995
+- Gambling, Jessica: Membership 2025-2027
 - Garner, Carolyn: President 1999-2000, VP 1998-1999, Council (appointed to fill Wexler term) 1991-1993
 - Gill, Samuel A.: President 1980-1981, Council 1978-1980
 - Glenn, Lucinda: President 2007-2008, VP 2006-2007, Secretary 1997-1999
@@ -86,7 +92,7 @@ title: 5-6 Board of Directors: Alphabetical List
 - Lewis, Dan: President 2006-2007, VP 2005-2006, Board 2002-2004
 - Lindberg, Lori: Board 2008-2010
 - Lowell, Waverly B.: President 1989-1990, VP 1988-1989, Council 1983-1985
-- Luftschein, Susan: Board 2020-2022
+- Luftschein, Susan: President 2025-2026, VP 2024-2025, Board 2020-2022
 
 - Mackay-Collins, Dorothy: Secretary 1991-1993
 - McLendon, Rose: Membership 2010-2011
@@ -99,7 +105,7 @@ title: 5-6 Board of Directors: Alphabetical List
 - Milenkiewicz, Eric: Immediate Past President, 2020-2021, President 2019-2020, VP 2018-2019, Membership 2011-2015 (two terms)
 - Miller, Lisa: President 2012-2013, VP 2011-2012, Membership 2005-2007
 - Mink, James V.: President 1972-1974, Ad Hoc Steering Committee 1971
-- Mix, Lisa: VP 2022-2023
+- Mix, Lisa: Immediate Past President 2024-2025, President 2023-2024, VP 2022-2023
 - Mora, Teresa: Immediate Past President 2019-2020, President 2018-2019, VP 2017-2018
 - Morin, Jacqueline: Secretary 2007-2009, Board (appointed to fill Keats term) 2001
 - Mueller, Jane: Secretary 1983-1985
@@ -115,8 +121,8 @@ title: 5-6 Board of Directors: Alphabetical List
 - Palmer, Patricia: VP 1975-1977, Ad Hoc Steering Committee 1971
 - Panek, Tracey: Secretary 2011-2015 (two terms)
 - Phillips, Liz: Treasurer 2018-2020
-- Posas, Liza: President 2022-2023, VP 2021-2022, Board 2011-2013
-- Post, Alex: Treasurer 2022-2024
+- Posas, Liza: Immediate Past President 2023-2024, President 2022-2023, VP 2021-2022, Board 2011-2013
+- Post, Alex: Treasurer 2022-2026 (two terms)
 - Preston, Jean F.: VP 1972-1975, Ad Hoc Steering Committee 1971
 - Pugsley, Sharon: Secretary 1981-1983
 
@@ -132,7 +138,9 @@ title: 5-6 Board of Directors: Alphabetical List
 - Scott, Gloria: Secretary 1987-1988
 - Searcy, Susan: President 1994-1995, VP 1993-1994, Secretary 1985-1987
 - Seltzer, Sara: Board 2019-2021
+- Shibata, Nicole: Immediate Past President 2025-2026, President 2024-2025, VP 2023-2024
 - Sigman, Paula: President 1986-1987, VP 1985-1986
+- Silva, Marie: Membership 2023-2025
 - Simpson, Mildred: VP 1979-1980, Council 1976-1978
 - Smith, David R.: Council 1973-1975
 - Stalls, Clay: Immediate Past President 2015-2016, President 2014-2015, VP 2013-2014, Board 2010-2012
@@ -164,5 +172,5 @@ title: 5-6 Board of Directors: Alphabetical List
 
 ***
 
-_Revision history: 10/92 jab, 5/93, 4/94 ppa, 7/95 ppa, 6/98 lgr, 1/11 lo, 7/12 tep, 5/14 tep, 01/2017 llc, 06/2017 llc, 06/2018 llc, 04/2019 llc, 05/2019 llc, 01/2022 ck, 03/23 lm_
+_Revision history: 10/92 jab, 5/93, 4/94 ppa, 7/95 ppa, 6/98 lgr, 1/11 lo, 7/12 tep, 5/14 tep, 01/2017 llc, 06/2017 llc, 06/2018 llc, 04/2019 llc, 05/2019 llc, 01/2022 ck, 03/23 lm, 05/26 nls_
 
