@@ -26,7 +26,8 @@ General responsibilities are outlined in Handbook section 3-1.
 5. Encourages members, especially those in corporate settings, to pursue matching fund donations from their employers.
 6. Encourages members to designate SCA as a legatee, through a deferred-giving program.
 7. Coordinates its activities and endeavors with other committees, as appropriate.
+8. Chairs serve as members of the Program, Local Arrangements, Education and Awards Committees to facilitate planning coordination for the Annual General Meeting.
 
 ***
 
-_Revision history: 6/00 ssh, 6/09 jmw, 10/2017 llc, 01/2018 llc_
+_Revision history: 6/00 ssh, 6/09 jmw, 10/2017 llc, 01/2018 llc, 04/2026 sl_
