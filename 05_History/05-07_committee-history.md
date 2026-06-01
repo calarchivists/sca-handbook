@@ -33,7 +33,8 @@ _Committee created in 1991/2 at recommendation of the Task Force on Committees_
 - Julie Graham (2017-2018)
 - Jennifer Martinez-Wormser (2018-2019)
 - James Eason (2020-2022)
-- Lisa Crane (2022-2023)
+- Lisa Crane (2022-2025)
+- Christine Kim (2025-2028)
 
 ## Communications & Outreach
 _Committee formed in 2017 due to merger of Electronic Communications Committee and Outreach & Publicity Committee_
@@ -44,6 +45,9 @@ _Committee formed in 2017 due to merger of Electronic Communications Committee a
 - Steve Kutay (2021-2024)
 - Anna Martino (2022-2025)
 - April Feldman (2022-2025)
+- Dominique Massey (2024-2027)
+- Steve Kutay (2025-2028)
+- Marlene Moser (2025-2028)
 
 ## Conservation
 - Gloria Scott (1982-1983)
@@ -68,6 +72,8 @@ _Committee discontinued in 1991/2 at recommendation of the Task Force on Committ
 - Suzanne Noruschat (2019-2022)
 - Jaime Henderson (2020-2023)
 - Presley Hubschmitt (2022-2025)
+- Kristy Martin (2024-2027)
+- Chase Allgood (2025-2028)
 
 ## Education
 - Nancy Zinn (1980-1981)
@@ -100,11 +106,15 @@ _Committee discontinued in 1991/2 at recommendation of the Task Force on Committ
 - Adrienne Storey (2021-2024)
 - Sandy Enriquez (2021-2024)
 - Emily Homolka (2022-2025)
+- Rob Strauss (2024-2027)
+- Gillian Goldberg (2025-2028)
 
 ## Education – Vice Chair for Online Education
 - Audra Eagle Yun (2018)
 - Christine Kim (2019-2021)
 - Karina Cardenas (2021-2022)
+- Shelby Sorensen (2023-2026)
+- Allura Hays (2023-2026)
 
 ## Election
 - Anna DeVore (1979-1980)
@@ -126,6 +136,8 @@ _Committee discontinued in 1991/2 at recommendation of the Task Force on Committ
 - Peter Runge (2013-2016)
 - Rand Boyd (2016-2019)
 - Marlayna K. Christensen (2019-2023)
+- Rebecca Leung (2023-2026)
+- Kiera Sullivan (2025-2028)
 
 ## Electronic Communications
 _Established in 2012 to succeed Web Site Committee, which was abolished at same time._
@@ -142,6 +154,8 @@ _Established in 2019 upon recommedation of the Task Force on Professional Ethics
 - Penny Neder-Muro (2020-2022)
 - Stefani L. Baldivia (2020-2023)
 - Jenn Ho (2022-2024)
+- Lizeth Zepeda (2023-2026)
+- Guadalupe Martinez (2025-2028)
 
 ## Finance and Investment
 - Linda Johnson (2002-2006)
@@ -151,7 +165,7 @@ _Established in 2019 upon recommedation of the Task Force on Professional Ethics
 - Kate Tasker (2016-2018)
 - Liz Phillips (2018-2020)
 - Lara Michels (2020-2022)
-- Alex Post (2022-2024)
+- Alex Post (2022-2026)
 
 ## Government Affairs
 - J.T.K. Carter (1987-1988)
@@ -174,8 +188,8 @@ _Discontinued in 2020; became Advocacy and Public Policy Committee_
 ## Labor, Advocacy, and Public Policy
 _Committee established in 2022 to succeed Advocacy and Public Policy Committe_
 - Lisa Mix (2021-2022)
-- Marissa Friedman (2021-2024)
-- Melissa Haley (2022-2025)
+- Marissa Friedman (2021-2027)
+- Melissa Haley (2022-2026)
 
 ## Local Arrangements
 - JoAnn Williamson (1972-1973)
@@ -232,6 +246,10 @@ _Committee established in 2022 to succeed Advocacy and Public Policy Committe_
 - Alex Post (2020-2023)
 - Sara Gunasekara (2021-2024)
 - Kelsey Knox (2022-2025)
+- Alanna Quan (2023-2026)
+- Courtney Hopkins (2025-2027)
+- Shelby Sorensen (2025-2027)
+- Sarah Allison (2025-2028)
 
 ## Membership
 - Paula Sigman (1982-1984)
@@ -253,11 +271,14 @@ _In 1995, a Board Member-at-Large was assigned to be Membership Director, duties
 - Eric Milenkiewicz (2011-2015)
 - Christy Horton (2015-2019)
 - Alix Norton (2019-2023)
+- Marie Silva (2023-2025)
+- Jessica Gambling (2025-2027)
 
 ## Membership – Vice Chair for Member Activities
 - Kate Tasker (2014-2016)
 - Jessica Gambling (2016-2021)
 - Amalia Castañeda (2022-2025)
+- Isaac Fellman (2025-2028)
 
 ## Newsletter
 - Ralph Hansen (1972-1974)
@@ -319,6 +340,9 @@ _Committee was subsumed into Publications in 1991/2 at recommendation of the Tas
 - Eric Milenkiewicz (2020-2021)
 - Tanya Hollis (2021-2022)
 - Leilani Marshall (2022-2023)
+- Liza Posas (2023-2024)
+- Lisa Mix (2024-2025)
+- Nicole Shibata (2025-2026)
 
 ## Nominating (Elected members)
 _(Listing compiled, retrospectively, in 2015. Information incomplete)_
@@ -345,6 +369,9 @@ _(Listing compiled, retrospectively, in 2015. Information incomplete)_
 - Elena Colón-Marrero (2020-2022)
 - Azalea Camacho (2021-2023)
 - Aza Babayan (2022-2024)
+- Hanna Ahn (2023-2025)
+- Hilary Swett (2024-2026)
+- Marlayana Christensen (2025-2027)
 
 ## Outreach and Publicity
 - Anne Schlosser (1984-1985) _Archives Awareness and Outreach Committee_
@@ -417,6 +444,9 @@ _Committee discontinued in 1991/2 at recommendation of the Task Force on Committ
 - Leilani Marshall (2020-2021)
 - Liza Posas (2021-2022)
 - Lisa Mix (2022-2023)
+- Nicole Shibata (2023-2024)
+- Sue Luftschein (2024-2025)
+- Azalea Camacho (2025-2026)
 
 ## Publications
 - Ken Rossman (1982-1984)
@@ -441,8 +471,6 @@ _Newsletter became part of Publications in 1991/2 at recommendation of the Task 
 - Josh Schneider (2005-2009)
 - Alison Bridger (2006-2007)
 - Josh Schneider (2008-2016)
-- Dana Miller (2009- )
-- Elia Van Lith (2009- )
 - Dana Miller (editor 2009-2010)
 - Elia Van Lith (editor 2009-2010)
 - Jean Pasco (editor 2011-2013)
@@ -450,8 +478,10 @@ _Newsletter became part of Publications in 1991/2 at recommendation of the Task 
 - Michele Morgan (editor 2013-2015)
 - Emily Vigor (editor 2015-2018)
 - Joanna Black (2016-2019)
+- Nicole Shibata (2019-2020)
 - Stephen Kutay (editor 2017-2021)
 - Amanda Mack (2021-2024)
+- Shaula Stephenson (2024-2027)
 
 ## Site Selection
 - Jim Hofer (1992-1994)
@@ -529,4 +559,4 @@ _On-Site Coordinator superseded by WAI Program Coordinator when WAI moved into o
 
 ***
 
-_Revision history: 5/93 jab, 4/10 lo, 7/12 tep, 5/14 tep, 01/2017 llc, 06/2017 llc, 10/2017 llc, 06/2018 llc, 04/2019 llc, 05/2019 llc, 01/2022 ck, 03/23 lm_
+_Revision history: 5/93 jab, 4/10 lo, 7/12 tep, 5/14 tep, 01/2017 llc, 06/2017 llc, 10/2017 llc, 06/2018 llc, 04/2019 llc, 05/2019 llc, 01/2022 ck, 03/23 lm, 05/26 nls_
