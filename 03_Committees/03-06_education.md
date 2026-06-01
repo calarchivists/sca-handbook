@@ -40,4 +40,4 @@ See SCA Handbook section 2-5-10 for SCA’s full Cancellation and Refund Policy.
 
 ***
 
-_Revision history: 4/90 nlb, 5/91 nlb, 5/93 dmc, 10/99 jlm, 1/10 lo; 7/2016 llc; 10/2017 llc; 01/2018 llc, 01/2019 llc_
+_Revision history: 4/90 nlb, 5/91 nlb, 5/93 dmc, 10/99 jlm, 1/10 lo; 7/2016 llc; 10/2017 llc; 01/2018 llc, 01/2019 llc, 4/2026 sl_
