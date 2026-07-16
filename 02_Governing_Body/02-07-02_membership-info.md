@@ -14,11 +14,11 @@ All Individual members are entitled to one vote. Each Institutional membership c
 Members pay annual dues. One may not pay for several years of membership in advance. Renewal notices are sent out by email through WildApricot 30 days before the renewal date and on the renewal date. Renewal payments received are applied to the next membership year.
 
 ## Types of Membership
-1. _Individual_: Full membership. Annual dues $45.00
+1. _Individual_: Full membership. Annual dues $65.00
 2. _Student_: Full membership. Annual dues $20.00
-3. _Retiree_: Full membership. Annual dues $20.00
-4. _Institutional_: Full membership. Annual dues $75.00. (two representatives of the institution can be recognized as members for purposes of attending the Annual General Meeting and SCA workshops at the member rate)
+3. _Retiree_: Full membership. Annual dues $30.00
+4. _Institutional_: Full membership. Annual dues $120.00. (two representatives of the institution can be recognized as members for purposes of attending the Annual General Meeting and SCA workshops at the member rate)
 
 ***
 
-_Revision history: 4/90 nlb, 10/90 nlb, 5/91 nlb, 1/92 jab, 5/93 dmc, 3/98 lgr, 10/05 lo, 3/06 Board, 1/10 lo, 4/13 elm, 10/2017 llc, 02/2018 llc, 02/2020 mh_
+_Revision history: 4/90 nlb, 10/90 nlb, 5/91 nlb, 1/92 jab, 5/93 dmc, 3/98 lgr, 10/05 lo, 3/06 Board, 1/10 lo, 4/13 elm, 10/2017 llc, 02/2018 llc, 02/2020 mh, 07/2026 jtg_
