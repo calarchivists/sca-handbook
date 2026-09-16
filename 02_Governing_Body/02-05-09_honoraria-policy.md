@@ -22,14 +22,7 @@ The Society of California Archivists (SCA) strongly supports the use of special 
 | AGM | Speakers Fund speakers: Rate approved by Board | Non-Speakers Fund speakers: standard rate $200. (Higher rates or travel expenses with Board approval) |
 | Workshops | Full day instructors: $500 | Half day instructors: $250 |
 | Special Event Speakers or Facilitators | Approximately half day: $250 | Approximately 1-2 hours: $125 |
-| WAI: Principal Faculty | $2,500 | |
-| WAI: Adjunct Faculty | Full day: $250 | Half day: $125 |
-| WAI: Associate Administrator | $1500 | |
-| WAI: On-site Coordinator | $1500 | |
-| WAI: Regional Administrator | $1400 | |
-| WAI: Regional On-Site Coordinator | $1250 | |
-| WAI: Site Visit Faculty | $50 | |
 
 ***
 
-_Revision history: 4/02 ejs; 08/02 ejs, 3/12 tep, 2/13 tep, 06/2018 llc, 12/20 mh_
+_Revision history: 4/02 ejs; 08/02 ejs, 3/12 tep, 2/13 tep, 06/2018 llc, 12/20 mh, 9/26 kd
