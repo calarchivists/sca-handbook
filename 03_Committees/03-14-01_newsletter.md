@@ -12,10 +12,10 @@ The SCA Newsletter is the official voice of the Society, and is overseen by the 
 Copy deadlines and publication dates are as follows:
 
 | **Copy Deadline:** | **Publication Dates:** |
-| November 25        | January 1          |
-| February 25	       | April 1            |
-| May25	             | July 1             |
-| August 25 1	       | October 1          |
+| November 11        | January 1          |
+| February 11	       | April 1            |
+| May 11	            | July 1             |
+| August 11  	       | October 1          |
 
 ## Newsletter Editor
 
@@ -38,4 +38,4 @@ The editors and advertising coordinator are appointed by the Publications Commit
 
 ***
 
-_Revision history: 4/90 nlb, 1/91 nlb, 7/91 nlb, 2/92 jab, 5/93 jab, 9/04 dgh, 1/05, 3/06 Board, 06/2017 llc, 10/2017 llc, 04/2019 llc, 05/2019 llc, 04/2024 am_
+_Revision history: 4/90 nlb, 1/91 nlb, 7/91 nlb, 2/92 jab, 5/93 jab, 9/04 dgh, 1/05, 3/06 Board, 06/2017 llc, 10/2017 llc, 04/2019 llc, 05/2019 llc, 04/2024 am_, 9/2026 ss
