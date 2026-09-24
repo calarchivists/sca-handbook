@@ -23,9 +23,10 @@ General responsibilities are outlined in Handbook section 3-1.
  - a. Major revisions are assigned a new edition.
  - b. Yearly updates retain the previous edition but are marked as a revision of that year (e.g., 5th Edition, 2024 revision). 
 6. Develops proposals for new publications. Once a new publication is approved by the Board, the Committee supervises its production and distribution.
-7. Explores external funding from appropriate grant agencies (e.g. NHPRC, CCH, etc.) to support publication programs.
+7. Explores external funding from appropriate grant agencies (_e.g._, NHPRC, CCH, etc.) to support publication programs.
 8. Works with the Outreach and Publicity Committee to advertise SCA publications in all appropriate venues.
 9. Sends copies of all SCA publications, as well as the Committee’s non-current records, to the SCA Archives.
+   - a. Digital copies of published _Newsletter_ issues are saved in a folder on the Publications Committee's Google drive. Every January, the previous calendar year's issues are deposited in the SCA Archives by sharing access to the folder with the Archivist.
 10.	Handles all requests for permission to republish or distribute SCA publications. Individuals or organizations desiring to reprint articles from the _Newsletter_ or other SCA publications should be asked by the Chair to observe the following requirements:
    - a. Secure prior permission from publication editors and original authors
    - b. Give credit to SCA as the original publisher and copyright holder
@@ -35,4 +36,4 @@ General responsibilities are outlined in Handbook section 3-1.
 ***
 
 
-_Revision history: 4/90 nlb, 1/91 nlb, 5/93 jab, 9/04 dgh, 6/09 jtm, 10/2017 llc, 04/2019 llc, 02/2020 mh, 04/2024 am, 05/2024 am, 04/2025 sms_
+_Revision history: 4/90 nlb, 1/91 nlb, 5/93 jab, 9/04 dgh, 6/09 jtm, 10/2017 llc, 04/2019 llc, 02/2020 mh, 04/2024 am, 05/2024 am, 04/2025 sms, 09/2026 sms_
