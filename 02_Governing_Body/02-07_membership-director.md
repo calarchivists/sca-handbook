@@ -29,7 +29,7 @@ The Membership Director acts as corresponding secretary in matters relating to m
 16. Plans and hosts new member events at the AGM in coordination with the LAC.
 17. Distributes membership surveys when requested by the Board (topic is selected by the Board and survey is drafted by designated Committee or others, as appropriate).
 18. Provides membership pins to the incoming president and chair of the Awards committee for Mink Scholarship winners at the AGM.
-
+19. Reviews and approves proposals for Member Initiated Events.
 ***
 
-_Revision history: 8/92 dmc, 5/93 dmc, 6/93 bh, 10/2000 rpb, 4/04 lo, 10/05 lo, 3/06 board, 1/10 lo, 4/13 elm, 8/14 elm, 07/2016 llc, 10/2017 llc, 02/2018 llc, 01/2019 llc, 02/2020 mh; 03/2020 mh; 03/2023 an_
+_Revision history: 8/92 dmc, 5/93 dmc, 6/93 bh, 10/2000 rpb, 4/04 lo, 10/05 lo, 3/06 board, 1/10 lo, 4/13 elm, 8/14 elm, 07/2016 llc, 10/2017 llc, 02/2018 llc, 01/2019 llc, 02/2020 mh; 03/2020 mh; 03/2023 an, 07/2026 jtg_
