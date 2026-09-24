@@ -20,9 +20,11 @@ General responsibilities are outlined in Handbook section 3-1.
    - b. spring programs—alternating Northern and Southern in the opposite region of the Annual General Meeting (AGM) location
    - c. specialized workshops to be offered as opportunities present themselves or as demand requires
 2. Collaborates with the Program Committee
-   - a. The chair or other representative of the Education Committee serves as an _ad hoc_ member of the Program Committee.
+   - a. The chair or other representative of the Education Committee serves as a member of the Program Committee.
    - b. The Vice President/Program Chair serves as an ad hoc member of the Education Committee.
    - c. The Education Committee is responsible for the selection, budgeting and scheduling of pre-conference workshop(s) for the AGM.
+3. Collaborates with the Local Arrangements Committee
+   - a. The chair or other representative of the Education Committee serves as a member of the Local Arrangements Committee.
 3. Provides SCA members with information about archival education programs in California.
 4. Maintains a workbook of guidelines and pointers for putting together programs and samples of publicity and forms.
 
@@ -38,4 +40,4 @@ See SCA Handbook section 2-5-10 for SCA’s full Cancellation and Refund Policy.
 
 ***
 
-_Revision history: 4/90 nlb, 5/91 nlb, 5/93 dmc, 10/99 jlm, 1/10 lo; 7/2016 llc; 10/2017 llc; 01/2018 llc, 01/2019 llc_
+_Revision history: 4/90 nlb, 5/91 nlb, 5/93 dmc, 10/99 jlm, 1/10 lo; 7/2016 llc; 10/2017 llc; 01/2018 llc, 01/2019 llc, 4/2026 sl_
